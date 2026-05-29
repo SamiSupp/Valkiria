@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+server/data/inbox.json
+*.log
+.env
+.env.*
+dist/
+.vscode/
+.idea/

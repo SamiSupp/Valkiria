@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Marcas — Valkiria Bikes</title>
+  <meta name="description" content="Las marcas que representamos: Canyon, Fox Racing, Specialized, Shimano, Trek, Garmin y más.">
+  <link rel="icon" type="image/png" href="/assets/img/logo-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/animations.css">
+  <link rel="stylesheet" href="/assets/css/pages.css">
+</head>
+<body>
+  <header class="site-header is-dark" id="header">
+    <div class="container nav-bar">
+      <a class="brand" href="/">
+        <img class="brand__mark" src="/assets/img/logo-icon.png" alt="" aria-hidden="true">
+        <span><span class="brand__name">VALKIRIA</span><span class="brand__sub">BIKES</span></span>
+      </a>
+      <nav class="nav-links" aria-label="Principal">
+        <a href="/pages/productos.html">Catálogo</a>
+        <a href="/pages/marcas.html">Marcas</a>
+        <a href="/pages/nosotros.html">Nosotros</a>
+        <a href="/pages/contacto.html">Contacto</a>
+      </nav>
+      <div class="nav-tools">
+        <a class="icon-btn" href="/pages/carrito.html" aria-label="Carrito" style="position:relative">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 4h2l2.4 12.2a2 2 0 0 0 2 1.6h8.2a2 2 0 0 0 2-1.6L21 8H6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="10" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/></svg>
+          <span class="cart-count" data-cart-count>0</span>
+        </a>
+        <button class="icon-btn nav-toggle" aria-label="Abrir menú" aria-controls="nav-drawer">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="nav-drawer" id="nav-drawer" role="dialog" aria-label="Navegación">
+    <div class="nav-drawer__head">
+      <span class="brand"><img class="brand__mark" src="/assets/img/logo-icon.png" alt=""><span class="brand__name">VALKIRIA</span></span>
+      <button class="icon-btn" data-close-drawer><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="m6 6 12 12M18 6 6 18" stroke-linecap="round"/></svg></button>
+    </div>
+    <nav class="nav-drawer__links">
+      <a href="/">Inicio</a><a href="/pages/productos.html">Catálogo</a>
+      <a href="/pages/marcas.html">Marcas</a><a href="/pages/nosotros.html">Nosotros</a>
+      <a href="/pages/contacto.html">Contacto</a>
+    </nav>
+    <div class="nav-drawer__foot"><span>EST. 2025</span><span>MX</span></div>
+  </div>
+
+  <main>
+    <section class="page-head">
+      <div class="container">
+        <div class="page-head__inner" data-reveal="fade">
+          <div>
+            <p class="crumbs"><a href="/">Inicio</a> <span>/</span> <span style="color:var(--bone-50)">Marcas</span></p>
+            <h1>Marcas que<br><em style="color:var(--bronze-500); font-style:italic">representamos.</em></h1>
+          </div>
+          <div class="page-head__meta">
+            <span>11 marcas</span><span class="divider-dot"></span><span>5 continentes</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="brands-intro">
+      <div class="container brands-intro__grid">
+        <div data-reveal="left">
+          <span class="kicker">— Filosofía</span>
+          <h2 class="title-lg" style="margin-top:1rem">Cada marca,<br>una razón.</h2>
+        </div>
+        <p class="lead" data-reveal="right">
+          No representamos todo lo que existe — representamos lo que merece existir.
+          Estas son las marcas que llevan décadas redefiniendo lo que una bicicleta y su equipo pueden hacer.
+          De los grupos Shimano que mueven al pelotón mundial, a los cuadros CFR de Canyon ganadores en Tour de Francia.
+        </p>
+      </div>
+    </section>
+
+    <section class="container brands-grid" data-stagger id="brands-grid">
+      <!-- inyectado por JS -->
+    </section>
+
+    <section class="manifesto section">
+      <div class="container manifesto__inner">
+        <div data-reveal="left">
+          <span class="kicker is-dark-text" style="color:var(--bronze-500)">— Cómo elegimos</span>
+          <h2 class="manifesto__title">
+            Tres pruebas.<br>
+            Sin excepción.<br>
+            <em>Sin atajos.</em>
+          </h2>
+        </div>
+        <div class="manifesto__body" data-reveal="right">
+          <p>Antes de listar una marca en Valkiria, el equipo la prueba a fondo durante mínimo un trimestre. Buscamos consistencia técnica, soporte real de fábrica y respeto al ciclista final.</p>
+          <p>Si el producto falla bajo nuestras condiciones — pavés, sierra, lluvia, calor — no entra al catálogo. Es así de simple.</p>
+        </div>
+      </div>
+
+      <div class="container principles" data-stagger>
+        <div class="principle">
+          <span class="num">01 · Rendimiento</span>
+          <h4>Probado en pelotón</h4>
+          <p>Equipo usado por equipos WorldTour, EWS o campeones nacionales.</p>
+        </div>
+        <div class="principle">
+          <span class="num">02 · Soporte</span>
+          <h4>Garantía respaldada</h4>
+          <p>Servicio post-venta directo con el fabricante, sin intermediarios.</p>
+        </div>
+        <div class="principle">
+          <span class="num">03 · Ética</span>
+          <h4>Manufactura responsable</h4>
+          <p>Cadenas de producción transparentes y trazables.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand"><span class="brand"><img class="brand__mark" src="/assets/img/logo-icon.png" alt="" style="filter:invert(1) brightness(2)"><span class="brand__name">VALKIRIA</span></span><p>Distribuidor multimarca de ciclismo en México.</p></div>
+        <div><h4>Catálogo</h4><ul><li><a href="/pages/productos.html">Todo</a></li><li><a href="/pages/marcas.html">Marcas</a></li></ul></div>
+        <div><h4>Empresa</h4><ul><li><a href="/pages/nosotros.html">Nosotros</a></li><li><a href="/pages/contacto.html">Contacto</a></li></ul></div>
+        <div><h4>Soporte</h4><ul><li><a href="/pages/contacto.html">Garantías</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><span>© <span data-year>2025</span> Valkiria Bikes</span><span>Política · Términos</span></div>
+    </div>
+  </footer>
+
+  <script type="module" src="/assets/js/main.js"></script>
+  <script type="module" src="/assets/js/animations.js"></script>
+  <script type="module">
+    (async () => {
+      const grid = document.getElementById('brands-grid');
+      let data = [];
+      try { data = await (await fetch('/api/marcas')).json(); }
+      catch { data = await (await fetch('/assets/data/marcas.json')).json(); }
+      grid.innerHTML = data.map(b => `
+        <a class="brand-card" href="/pages/productos.html?marca=${encodeURIComponent(b.nombre)}">
+          <span class="country">${b.pais}</span>
+          <span class="logo-mark">${b.nombre}</span>
+          <p class="desc">${b.descripcion}</p>
+          <span class="count">${b.categoria} →</span>
+        </a>`).join('');
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contacto — Valkiria Bikes</title>
+  <meta name="description" content="Contáctanos. Atención personalizada para ciclistas en CDMX y el resto de México.">
+  <link rel="icon" type="image/png" href="/assets/img/logo-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/animations.css">
+  <link rel="stylesheet" href="/assets/css/pages.css">
+</head>
+<body>
+  <header class="site-header is-dark" id="header">
+    <div class="container nav-bar">
+      <a class="brand" href="/">
+        <img class="brand__mark" src="/assets/img/logo-icon.png" alt="" aria-hidden="true">
+        <span><span class="brand__name">VALKIRIA</span><span class="brand__sub">BIKES</span></span>
+      </a>
+      <nav class="nav-links" aria-label="Principal">
+        <a href="/pages/productos.html">Catálogo</a>
+        <a href="/pages/marcas.html">Marcas</a>
+        <a href="/pages/nosotros.html">Nosotros</a>
+        <a href="/pages/contacto.html">Contacto</a>
+      </nav>
+      <div class="nav-tools">
+        <a class="icon-btn" href="/pages/carrito.html" aria-label="Carrito" style="position:relative">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 4h2l2.4 12.2a2 2 0 0 0 2 1.6h8.2a2 2 0 0 0 2-1.6L21 8H6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="10" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/></svg>
+          <span class="cart-count" data-cart-count>0</span>
+        </a>
+        <button class="icon-btn nav-toggle" aria-label="Abrir menú">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="nav-drawer" id="nav-drawer" role="dialog" aria-label="Navegación">
+    <div class="nav-drawer__head">
+      <span class="brand"><img class="brand__mark" src="/assets/img/logo-icon.png" alt=""><span class="brand__name">VALKIRIA</span></span>
+      <button class="icon-btn" data-close-drawer><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="m6 6 12 12M18 6 6 18" stroke-linecap="round"/></svg></button>
+    </div>
+    <nav class="nav-drawer__links">
+      <a href="/">Inicio</a><a href="/pages/productos.html">Catálogo</a>
+      <a href="/pages/marcas.html">Marcas</a><a href="/pages/nosotros.html">Nosotros</a>
+      <a href="/pages/contacto.html">Contacto</a>
+    </nav>
+    <div class="nav-drawer__foot"><span>EST. 2025</span><span>MX</span></div>
+  </div>
+
+  <main>
+    <section class="page-head">
+      <div class="container">
+        <div class="page-head__inner" data-reveal="fade">
+          <div>
+            <p class="crumbs"><a href="/">Inicio</a> <span>/</span> <span style="color:var(--bone-50)">Contacto</span></p>
+            <h1>Habla con<br><em style="color:var(--bronze-500); font-style:italic">un ciclista.</em></h1>
+            <p class="lead is-dark-text" style="margin-top:1.4rem; max-width:48ch">
+              Respondemos en menos de 24 horas hábiles. Asesoría técnica, garantías y todo lo que necesites preguntar antes (o después) de comprar.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact">
+      <div class="container contact__grid">
+        <aside data-reveal="left">
+          <div class="contact-card">
+            <span class="label">— WhatsApp</span>
+            <div class="val">+52 55 1234 5678</div>
+          </div>
+          <div class="contact-card">
+            <span class="label">— Correo</span>
+            <div class="val">hola@valkiriabikes.mx</div>
+          </div>
+          <div class="contact-card">
+            <span class="label">— Showroom CDMX</span>
+            <div class="val" style="font-size:1.1rem">Av. Ciclistas 142,<br>Colonia Roma Norte<br>CDMX, México</div>
+          </div>
+          <div class="contact-card">
+            <span class="label">— Horario</span>
+            <div class="val" style="font-size:1.1rem">Lun–Vie: 10–20h<br>Sáb: 11–18h</div>
+          </div>
+        </aside>
+
+        <form class="contact-form" data-contact-form data-reveal="right" novalidate>
+          <span class="kicker">— Envíanos un mensaje</span>
+          <h2 class="title-md" style="margin:1rem 0 1.6rem">¿En qué te ayudamos?</h2>
+
+          <div class="row">
+            <div class="field">
+              <label for="nombre">Nombre</label>
+              <input class="input" id="nombre" name="nombre" type="text" autocomplete="name" required>
+            </div>
+            <div class="field">
+              <label for="email">Correo</label>
+              <input class="input" id="email" name="email" type="email" autocomplete="email" required>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="field">
+              <label for="telefono">Teléfono (opcional)</label>
+              <input class="input" id="telefono" name="telefono" type="tel" autocomplete="tel">
+            </div>
+            <div class="field">
+              <label for="motivo">Motivo</label>
+              <select class="select" id="motivo" name="motivo" required>
+                <option value="">Selecciona…</option>
+                <option>Asesoría de producto</option>
+                <option>Cotización a meses</option>
+                <option>Garantía / servicio</option>
+                <option>Distribución mayorista</option>
+                <option>Otro</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="mensaje">Mensaje</label>
+            <textarea class="textarea" id="mensaje" name="mensaje" rows="6" required></textarea>
+          </div>
+
+          <button type="submit" class="btn btn--primary btn--lg">
+            <span>Enviar mensaje</span>
+            <svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+
+          <div class="form-result" data-form-result aria-live="polite"></div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand"><span class="brand"><img class="brand__mark" src="/assets/img/logo-icon.png" alt="" style="filter:invert(1) brightness(2)"><span class="brand__name">VALKIRIA</span></span><p>Distribuidor multimarca de ciclismo en México.</p></div>
+        <div><h4>Catálogo</h4><ul><li><a href="/pages/productos.html">Todo</a></li><li><a href="/pages/marcas.html">Marcas</a></li></ul></div>
+        <div><h4>Empresa</h4><ul><li><a href="/pages/nosotros.html">Nosotros</a></li><li><a href="/pages/contacto.html">Contacto</a></li></ul></div>
+        <div><h4>Soporte</h4><ul><li><a href="/pages/contacto.html">Garantías</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><span>© <span data-year>2025</span> Valkiria Bikes</span><span>Política · Términos</span></div>
+    </div>
+  </footer>
+
+  <script type="module" src="/assets/js/main.js"></script>
+  <script type="module" src="/assets/js/animations.js"></script>
+  <script type="module" src="/assets/js/contacto.js"></script>
+</body>
+</html>

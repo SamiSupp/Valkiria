@@ -1,0 +1,13 @@
+[
+  { "id": "canyon",      "nombre": "Canyon",      "pais": "Alemania",       "categoria": "Bicicletas",    "descripcion": "Bicicletas de carretera, MTB y gravel diseñadas para máximo rendimiento, vendidas directo del fabricante." },
+  { "id": "fox-racing",  "nombre": "Fox Racing",  "pais": "Estados Unidos", "categoria": "Vestimenta",    "descripcion": "Pioneros del MTB, BMX y motocross. Equipo de protección y vestimenta para ride agresivo." },
+  { "id": "specialized", "nombre": "Specialized", "pais": "Estados Unidos", "categoria": "Bicicletas",    "descripcion": "Innovación constante en geometría Body Geometry y tecnología FACT Carbon." },
+  { "id": "shimano",     "nombre": "Shimano",     "pais": "Japón",          "categoria": "Componentes",   "descripcion": "Estándar mundial en grupos, frenos hidráulicos y pedales. Precisión japonesa." },
+  { "id": "trek",        "nombre": "Trek",        "pais": "Estados Unidos", "categoria": "Bicicletas",    "descripcion": "OCLV Carbon y tecnología IsoSpeed/IsoFlow para todas las disciplinas." },
+  { "id": "garmin",      "nombre": "Garmin",      "pais": "Estados Unidos", "categoria": "Tecnología",    "descripcion": "Ciclocomputadores GPS y métricas avanzadas de rendimiento." },
+  { "id": "maxxis",      "nombre": "Maxxis",      "pais": "Taiwán",         "categoria": "Componentes",   "descripcion": "Llantas de MTB, carretera y gravel para todos los terrenos." },
+  { "id": "100",         "nombre": "100%",        "pais": "Estados Unidos", "categoria": "Accesorios",    "descripcion": "Gafas y goggles de alto rendimiento con lentes Hiper®." },
+  { "id": "pearl-izumi", "nombre": "Pearl Izumi", "pais": "Estados Unidos", "categoria": "Vestimenta",    "descripcion": "Vestimenta técnica con tejidos termoreguladores y patrones ergonómicos." },
+  { "id": "castelli",    "nombre": "Castelli",    "pais": "Italia",         "categoria": "Vestimenta",    "descripcion": "Vestimenta italiana de ciclismo profesional. Pelotón WorldTour desde 1876." },
+  { "id": "wahoo",       "nombre": "Wahoo",       "pais": "Estados Unidos", "categoria": "Tecnología",    "descripcion": "Rodillos inteligentes y dispositivos de entrenamiento conectados." }
+]
