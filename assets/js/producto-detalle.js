@@ -10,10 +10,10 @@ const id = new URLSearchParams(location.search).get('id');
 
 async function fetchProducto() {
   try {
-    const res = await fetch(`/api/productos/${id}`);
+    const res = await fetch(`api/productos/${id}`);
     if (res.ok) return await res.json();
   } catch {}
-  const all = await (await fetch('/assets/data/productos.json')).json();
+  const all = await (await fetch('assets/data/productos.json')).json();
   return all.find(p => p.id === id);
 }
 
@@ -23,7 +23,7 @@ function render(p) {
       <div class="container" style="padding-block:8rem; text-align:center">
         <h1 class="title-lg">Producto no encontrado</h1>
         <p class="lead" style="margin:1rem auto">El producto que buscas no está disponible.</p>
-        <a class="btn btn--primary" href="/pages/productos.html"><span>Ver catálogo</span></a>
+        <a class="btn btn--primary" href="productos.html"><span>Ver catálogo</span></a>
       </div>`;
     return;
   }
@@ -31,7 +31,7 @@ function render(p) {
   const crumbs = document.querySelector('[data-crumbs]');
   if (crumbs) crumbs.innerHTML = `
     <a href="/">Inicio</a> <span>/</span>
-    <a href="/pages/productos.html">Catálogo</a> <span>/</span>
+    <a href="productos.html">Catálogo</a> <span>/</span>
     <span style="color:var(--bone-50)">${p.nombre}</span>`;
 
   const title = document.querySelector('[data-product-title]');

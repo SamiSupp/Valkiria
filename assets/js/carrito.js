@@ -19,7 +19,7 @@ function render() {
       <div class="cart-empty">
         <h2>Tu carrito está vacío</h2>
         <p>Empieza a explorar nuestro catálogo y elige el equipo que te llevará más lejos.</p>
-        <a class="btn btn--primary" href="/pages/productos.html"><span>Explorar catálogo</span></a>
+        <a class="btn btn--primary" href="productos.html"><span>Explorar catálogo</span></a>
       </div>`;
     return;
   }
@@ -63,7 +63,7 @@ function render() {
           <button class="btn btn--primary btn--lg" style="width:100%; margin-top:1.4rem; justify-content:center" data-checkout>
             <span>Finalizar compra</span>
           </button>
-          <a href="/pages/productos.html" class="link-arrow" style="margin-top:1rem; display:inline-flex">
+          <a href="productos.html" class="link-arrow" style="margin-top:1rem; display:inline-flex">
             Seguir comprando
           </a>
         </aside>
@@ -80,18 +80,21 @@ function render() {
   });
 
   root.querySelector('[data-checkout]').addEventListener('click', async () => {
+    let data;
     try {
-      const res = await fetch('/api/checkout', {
+      const res = await fetch('api/checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ items, total })
       });
-      const data = await res.json();
-      toast(data.message || 'Pedido recibido');
-      if (data.ok) { Cart.clear(); render(); }
-    } catch {
-      toast('No se pudo conectar con el servidor');
+      if (res.ok) data = await res.json();
+    } catch {}
+    if (!data) {
+      const orderId = 'VLK-' + Date.now().toString(36).toUpperCase();
+      data = { ok: true, orderId, message: `Pedido ${orderId} registrado (demo). Te contactaremos para coordinar el pago.` };
     }
+    toast(data.message || 'Pedido recibido');
+    if (data.ok) { Cart.clear(); render(); }
   });
 }
 

@@ -18,11 +18,11 @@ const state = {
 
 async function loadProducts() {
   try {
-    const res = await fetch('/api/productos');
+    const res = await fetch('api/productos');
     if (!res.ok) throw new Error('http');
     state.all = await res.json();
   } catch {
-    const res = await fetch('/assets/data/productos.json');
+    const res = await fetch('assets/data/productos.json');
     state.all = await res.json();
   }
 }
@@ -31,13 +31,13 @@ function productCard(p) {
   const badge = p.badge ? `<span class="product-card__badge ${p.badgeStyle === 'accent' ? 'product-card__badge--accent' : ''}">${p.badge}</span>` : '';
   return `
     <article class="product-card" data-magnet="0.04">
-      <a href="/pages/producto.html?id=${p.id}" class="product-card__media" aria-label="${p.nombre}">
+      <a href="producto.html?id=${p.id}" class="product-card__media" aria-label="${p.nombre}">
         ${badge}
         <img loading="lazy" src="${p.img}" alt="${p.nombre}" onerror="this.style.opacity='.2'">
       </a>
       <div class="product-card__body">
         <span class="product-card__brand">${p.marca}</span>
-        <h3 class="product-card__name"><a href="/pages/producto.html?id=${p.id}">${p.nombre}</a></h3>
+        <h3 class="product-card__name"><a href="producto.html?id=${p.id}">${p.nombre}</a></h3>
         <div class="product-card__foot">
           <span class="product-card__price">${fmt.format(p.precio)}</span>
           <button class="add-to-cart" data-add="${p.id}" aria-label="Agregar al carrito">
