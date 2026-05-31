@@ -1,0 +1,380 @@
+{
+  "tienda": "Valkiria Bikes",
+  "url": "https://valkiriabikes.kyte.site/en",
+  "contacto": {
+    "whatsapp": "77410154",
+    "telefono": "+591-7-741-0154",
+    "direccion": "Calle Potosí N° 1779, Entre Ciclovía Y Juan Capriles, Acera. Oeste",
+    "horario_pickup": "9:00 - 20:00"
+  },
+  "total_productos": 217,
+  "categorias": [
+    {
+      "nombre": "Ciclocomputadores",
+      "productos": [
+        {"nombre": "Cadenciómetro igsport", "precio": "Bs 250,00", "precio_original": "Bs 370,00", "descuento": "-32%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_cd4f7a8b-1035-4652-baa0-2365f52ba553.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/cadenciometro-igsport-6970817350176/1755032612686-FOwmM"},
+        {"nombre": "Ciclocomputador IGPSPORT BSC 300T", "precio": "Bs 1.320,00", "precio_original": "Bs 1.970,00", "descuento": "-33%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_3db9abb0-b852-4246-8c64-5722f4f48db6.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc-300t-httpsqrcodesio82lncs/1755031958470-FOwmM"},
+        {"nombre": "Ciclocomputador IGPSPORT BSC100", "precio": "Bs 490,00", "precio_original": "Bs 700,00", "descuento": "-30%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_e87ad44b-e2c2-4f15-ac8f-2b8bb25a6fe5.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc100/1755032248867-FOwmM"},
+        {"nombre": "Ciclocomputador IGPSPORT BSC200", "precio": "Bs 850,00", "precio_original": "Bs 1.270,00", "descuento": "-33%", "disponible": "4", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_a7d72987-bdd1-4a53-95d6-5e4c5b50e1c3.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc200/1755032136021-FOwmM"},
+        {"nombre": "Ciclocomputador IGPSPORT BSC300", "precio": "Bs 1.030,00", "precio_original": "Bs 1.520,00", "descuento": "-32%", "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_d6d2afc7-adc1-43a0-b4f5-3d26cd7b5c35.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc300/1755032045034-FOwmM"},
+        {"nombre": "Sensor de cadencia", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_6fed66c0-a97f-4e98-b7c3-59e2a2d84ef4.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/sensor-de-cadencia/1755033102540-FOwmM"},
+        {"nombre": "Sensor de frecuencia cardíaca", "precio": "Bs 350,00", "precio_original": "Bs 480,00", "descuento": "-27%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_b53c3d16-1ef8-4cae-a8db-9e01ddb97cec.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/sensor-de-frecuencia-cardiaca/1755032917561-FOwmM"},
+        {"nombre": "Soporte de ciclocomputador", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_4d578bd8-e77e-4fac-9bde-3d6413c69c9e.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/soporte-de-ciclocomputador/1755033347249-FOwmM"},
+        {"nombre": "Soporte de ciclocomputador", "precio": "Bs 160,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_e5b1bbde-96a7-4f0a-9b82-72e3e2fc0adf.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/soporte-de-ciclocomputador/1755033469780-FOwmM"},
+        {"nombre": "Soporte frontal igsport M80", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_ee547c9d-e9a0-4fb4-bee8-92e5a7bcf793.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/soporte-frontal-igsport-m80/1755033219696-FOwmM"}
+      ]
+    },
+    {
+      "nombre": "Infladores",
+      "productos": [
+        {"nombre": "Inflador de piso Giyo", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_5c4c88d3-94c3-4b40-a33a-e42b5eb52a49.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-de-piso-giyo/1755041165699-FOwmM"},
+        {"nombre": "Inflador electrónico ROCKBROS", "precio": "Bs 790,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_a1f3c7e4-08b0-4d25-b344-0e0b7ab5c6e7.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-electronico-rockbros/1755041399685-FOwmM"},
+        {"nombre": "Inflador electrónico ROCKBROS con medidor digital", "precio": "Bs 1.100,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_c2e5c9e6-7d41-4700-9d4f-3f4d58e1cb3c.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-electronico-rockbros-con-medidor-digital/1755041535818-FOwmM"},
+        {"nombre": "Inflador GIYO", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_75e5b97d-e7ed-4ca3-a8ec-6b4a41c7ce8c.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo/1755041064108-FOwmM"},
+        {"nombre": "Inflador Giyo Air Compact", "precio": "Bs 70,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_60e5ffa6-e4a4-48fc-8e58-82c7b9b4ee44.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-air-compact/1755040810820-FOwmM"},
+        {"nombre": "Inflador Giyo AirTank", "precio": "Bs 950,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_9d7fe0b6-e1a8-4e92-8ad7-6cf3f7a3c5e3.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-airtank/1755041673847-FOwmM"},
+        {"nombre": "Inflador Giyo mediano", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_3b3df01e-31d9-4f3c-b73d-15c2fbf47f56.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-mediano/1755040935283-FOwmM"},
+        {"nombre": "Inflador pequeño", "precio": "Bs 65,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_88a0c9ab-71e0-4c5a-bf7d-5e4e2b94afe7.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-pequeno/1755040663027-FOwmM"},
+        {"nombre": "Inflador pequeño con manguera", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_7cf5a22f-6e44-4b43-b7b7-2e3e5fce59c2.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/inflador-pequeno-con-manguera/1755040717893-FOwmM"}
+      ]
+    },
+    {
+      "nombre": "Aros",
+      "productos": [
+        {"nombre": "Radios", "precio": "Bs 2,00", "precio_original": null, "descuento": null, "disponible": "1590", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/radios"},
+        {"nombre": "Radios acero inoxidable", "precio": "Bs 4,00", "precio_original": null, "descuento": null, "disponible": "80", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/radios-acero-inoxidable"}
+      ]
+    },
+    {
+      "nombre": "Horquilla",
+      "productos": [
+        {"nombre": "Horquilla aluminio cube", "precio": "Bs 550,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_8b55f843-552f-4f46-a3e3-8abcd0912bf0.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/horquilla-aluminio-cube/1755042970066-FOwmM"},
+        {"nombre": "Horquilla de fibra de carbono TOSEK no boost", "precio": "Bs 2.300,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_01de6795-f331-4c8d-b1ae-2de4a3d9f7a4.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/horquilla-de-fibra-de-carbono-tosek-no-boost/1755042800283-FOwmM"},
+        {"nombre": "Horquilla fibra de carbono TOSEK", "precio": "Bs 1.500,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_f39bf89e-e383-41ae-bc15-3d6e8aff38b3.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/horquilla-fibra-de-carbono-tosek/1755042902640-FOwmM"},
+        {"nombre": "Juego de dirección 1/8 a rodamiento", "precio": "Bs 170,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_98c77a1c-efa7-4614-b64c-eb0e6a3e33c2.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-18-a-rodamiento/1755044151813-FOwmM"},
+        {"nombre": "Juego de dirección cónico", "precio": "Bs 240,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_5f8a0c74-0ec7-4c75-b5e5-c3d4e5ac5b19.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-conico/1755044346711-FOwmM"},
+        {"nombre": "Juego de dirección neco 1/8", "precio": "Bs 85,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_6d2b3d1a-2d3e-4e5f-a6b7-c8d9e0f1a2b3.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-neco-18/1755044028657-FOwmM"},
+        {"nombre": "Repuesto para horquilla", "precio": "Bs 95,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_repuesto.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/repuesto-para-horquilla"},
+        {"nombre": "ARAÑA para horquilla de carbono", "precio": null, "precio_original": null, "descuento": null, "disponible": "0", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/arana-para-horquilla-de-carbono"},
+        {"nombre": "Juego de dirección con cubetas", "precio": null, "precio_original": null, "descuento": null, "disponible": "0", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-con-cubetas"}
+      ]
+    },
+    {
+      "nombre": "Linternas",
+      "productos": [
+        {"nombre": "Bocina rock bros", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_bocina.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/bocina-rock-bros"},
+        {"nombre": "Linterna 1000 lumines rockbros", "precio": "Bs 420,00", "precio_original": "Bs 450,00", "descuento": "-7%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna1000.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-1000-lumines-rockbros"},
+        {"nombre": "Linterna 2 en 1", "precio": "Bs 90,00", "precio_original": null, "descuento": null, "disponible": "48", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna2en1.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-2-en-1"},
+        {"nombre": "Linterna LIGHT y MOTION", "precio": "Bs 615,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linternal_m.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-light-y-motion"},
+        {"nombre": "Linterna Luz Blanca y roja", "precio": "Bs 90,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linternabr.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-luz-blanca-y-roja"},
+        {"nombre": "Linterna Rockbros 600 Lumenes", "precio": "Bs 290,00", "precio_original": "Bs 310,00", "descuento": "-6%", "disponible": "4", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna600.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-600-lumenes"},
+        {"nombre": "Linterna Rockbros 800 Lumenes", "precio": "Bs 370,00", "precio_original": "Bs 400,00", "descuento": "-8%", "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna800.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-800-lumenes"},
+        {"nombre": "Linterna SEEMEER300", "precio": "Bs 1.250,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_seemeer.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-seemeer300"},
+        {"nombre": "Linterna trasera", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_lintrasera.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-trasera"},
+        {"nombre": "Linterna trasera con guiñeador", "precio": "Bs 150,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_lintraserag.jpg?alt=media", "url": "https://valkiriabikes.kyte.site/en/p/linterna-trasera-con-guineador"}
+      ]
+    },
+    {
+      "nombre": "Tubeles",
+      "productos": [
+        {"nombre": "Cinta tubeles STANS", "precio": "Bs 160,00", "precio_original": "Bs 200,00", "descuento": "-20%", "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-tubeles-stans"},
+        {"nombre": "Cinta tubeles stans 21 mm", "precio": "Bs 450,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-tubeles-stans-21-mm"},
+        {"nombre": "Cinta tubeles STANS 25mm", "precio": "Bs 190,00", "precio_original": "Bs 243,00", "descuento": "-22%", "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-tubeles-stans-25mm"},
+        {"nombre": "Cinta tubeles TESSA", "precio": "Bs 270,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-tubeles-tessa"},
+        {"nombre": "Cinta tubeles ZTTO", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "6", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-tubeles-ztto"},
+        {"nombre": "Extensor de válvula", "precio": "Bs 70,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/extensor-de-valvula"},
+        {"nombre": "Extensor de válvula desmontable", "precio": "Bs 95,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/extensor-de-valvula-desmontable"},
+        {"nombre": "Kit de parchado tubeles", "precio": "Bs 135,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/kit-de-parchado-tubeles"},
+        {"nombre": "Kit de parche", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/kit-de-parche"},
+        {"nombre": "LÍQUIDO ANTIPINCHANTE LTX", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/liquido-antipinchante-ltx"}
+      ]
+    },
+    {
+      "nombre": "Cascos",
+      "productos": [
+        {"nombre": "Casco Abus Airbraker", "precio": "Bs 2.362,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-airbraker"},
+        {"nombre": "Casco Abus Gamechanger", "precio": "Bs 1.935,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-gamechanger"},
+        {"nombre": "Casco Abus Macator", "precio": "Bs 590,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-macator"},
+        {"nombre": "Casco Abus Modrop", "precio": "Bs 1.054,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-modrop"},
+        {"nombre": "Casco Abus Powerdome", "precio": "Bs 973,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-powerdome"},
+        {"nombre": "Casco Abus Stormchaser", "precio": "Bs 1.516,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-stormchaser"},
+        {"nombre": "Casco Abus Urban-i 3.0", "precio": "Bs 798,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-urban-i-30"},
+        {"nombre": "Casco Abus Viantor", "precio": "Bs 1.067,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-viantor"},
+        {"nombre": "Casco Abus Viantor MIPS", "precio": "Bs 1.333,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-viantor-mips"},
+        {"nombre": "Casco cairbull #2", "precio": "Bs 290,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/casco-cairbull-2"}
+      ]
+    },
+    {
+      "nombre": "Indumentaria",
+      "productos": [
+        {"nombre": "Audífonos Lenovo X3 pro", "precio": "Bs 360,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/audifonos-lenovo-x3-pro"},
+        {"nombre": "Bolsa de agua de 2 litros", "precio": "Bs 95,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/bolsa-de-agua-de-2-litros"},
+        {"nombre": "Bolso para ciclismo", "precio": "Bs 490,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/bolso-para-ciclismo"},
+        {"nombre": "Buff", "precio": "Bs 12,00", "precio_original": null, "descuento": null, "disponible": "6", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff"},
+        {"nombre": "Buff - bandana", "precio": "Bs 10,00", "precio_original": null, "descuento": null, "disponible": "51", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff-bandana"},
+        {"nombre": "Buff de invierno", "precio": "Bs 120,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff-de-invierno"},
+        {"nombre": "Buff Rock bros", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff-rock-bros"},
+        {"nombre": "Buff Sporttex", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff-sporttex"},
+        {"nombre": "Buff supay", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/buff-supay"},
+        {"nombre": "Calza larga con tiros", "precio": "Bs 350,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calza-larga-con-tiros"}
+      ]
+    },
+    {
+      "nombre": "Cubierta/Neumático",
+      "productos": [
+        {"nombre": "Cámara 16x2.125", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-16x2125"},
+        {"nombre": "Cámara 24 AV", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-24-av"},
+        {"nombre": "Cámara 26 AV Chaoyang", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "8", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-26-av-chaoyang"},
+        {"nombre": "Cámara 26 Chaoyang", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-26-chaoyang"},
+        {"nombre": "Cámara 27.5 Av Chaoyang", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-275-av-chaoyang"},
+        {"nombre": "Cámara 27.5 Chaoyang", "precio": "Bs 65,00", "precio_original": null, "descuento": null, "disponible": "8", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-275-chaoyang"},
+        {"nombre": "Cámara 28 x 1-1/2", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-28-x-1-12"},
+        {"nombre": "Cámara 29 Chaoyang", "precio": "Bs 90,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-29-chaoyang-1"},
+        {"nombre": "Cámara 29 Chaoyang", "precio": "Bs 50,00", "precio_original": null, "descuento": null, "disponible": "24", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-29-chaoyang-2"},
+        {"nombre": "Camara Acimut 700c", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "84", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camara-acimut-700c"}
+      ]
+    },
+    {
+      "nombre": "Lubricantes",
+      "productos": [
+        {"nombre": "Aceite de cadena Massi 500 ml", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/aceite-de-cadena-massi-500-ml"},
+        {"nombre": "Grasa para carbono", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grasa-para-carbono"},
+        {"nombre": "Grasa Premium Motorex 850 g.", "precio": "Bs 0,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grasa-premium-motorex-850-g"},
+        {"nombre": "Grasa premium shimano", "precio": "Bs 160,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grasa-premium-shimano"},
+        {"nombre": "Lubricante cerámico Squirt 120 ml", "precio": "Bs 140,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-ceramico-squirt-120-ml"},
+        {"nombre": "Lubricante cerámico Squirt 15 ml", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-ceramico-squirt-15-ml"},
+        {"nombre": "Lubricante Pedro's - Enduro", "precio": "Bs 135,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-enduro"},
+        {"nombre": "Lubricante Pedro's - Light Wet Lube", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-light-wet-lube"},
+        {"nombre": "Lubricante Pedro's - Wet Lube", "precio": "Bs 100,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-wet-lube"},
+        {"nombre": "Lubricante Silca Super Secret Cerámico", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lubricante-silca-super-secret-ceramico"}
+      ]
+    },
+    {
+      "nombre": "Pedales/Calas",
+      "productos": [
+        {"nombre": "Calas Look X Track", "precio": "Bs 180,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-look-x-track"},
+        {"nombre": "Calas para look genérico", "precio": "Bs 160,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-para-look-generico"},
+        {"nombre": "Calas Shimano AMARILLA", "precio": "Bs 170,00", "precio_original": "Bs 210,00", "descuento": "-19%", "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-amarilla"},
+        {"nombre": "Calas Shimano SH10", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh10"},
+        {"nombre": "Calas Shimano SH11", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh11"},
+        {"nombre": "Calas Shimano SH12", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh12"},
+        {"nombre": "Calas Shimano SH-56", "precio": "Bs 120,00", "precio_original": null, "descuento": null, "disponible": "6", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh-56"},
+        {"nombre": "Calas TIME 10° y 13°-17°", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/calas-time-10-y-13-17"},
+        {"nombre": "Pedal de Aluminio clásico", "precio": "Bs 0,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/pedal-de-aluminio-clasico"},
+        {"nombre": "Pedal look ruta keo Classic 3", "precio": "Bs 750,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/pedal-look-ruta-keo-classic-3"}
+      ]
+    },
+    {
+      "nombre": "Herramientas",
+      "productos": [
+        {"nombre": "Adaptador de válvula francesa a válvula americana", "precio": "Bs 10,00", "precio_original": null, "descuento": null, "disponible": "15", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/adaptador-de-valvula-francesa-a-valvula-americana"},
+        {"nombre": "Cable para rodillo de rulos", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cable-para-rodillo-de-rulos"},
+        {"nombre": "Cadena de seguridad", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "12", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-de-seguridad"},
+        {"nombre": "Desmonta llantas", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "6", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/desmonta-llantas"},
+        {"nombre": "Desmonta llantas rockbros", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/desmonta-llantas-rockbros"},
+        {"nombre": "Extractor de cadena", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-cadena"},
+        {"nombre": "Extractor de QuickLink", "precio": "Bs 50,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-quicklink"},
+        {"nombre": "Extractor de valvular Toopre", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-valvular-toopre"},
+        {"nombre": "Funda RISK para Cableado Interno", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/funda-risk-para-cableado-interno"},
+        {"nombre": "Guiador chicotillo interno", "precio": "Bs 185,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/guiador-chicotillo-interno"}
+      ]
+    },
+    {
+      "nombre": "Manillar/Stem/Puños",
+      "productos": [
+        {"nombre": "Cinta de manillar", "precio": "Bs 150,00", "precio_original": "Bs 160,00", "descuento": "-6%", "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar"},
+        {"nombre": "Cinta de manillar ODI", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-odi"},
+        {"nombre": "Cinta de manillar ROCKBROS", "precio": "Bs 180,00", "precio_original": "Bs 200,00", "descuento": "-10%", "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-rockbros"},
+        {"nombre": "Cinta de manillar Supacaz", "precio": "Bs 320,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-supacaz"},
+        {"nombre": "Cintas replica supacaz", "precio": "Bs 180,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cintas-replica-supacaz"},
+        {"nombre": "Funda de silicona para Shimano R7000/R8000", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "22", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/funda-de-silicona-para-shimano-r7000-r8000"},
+        {"nombre": "Manillar de Aluminio WAKE MTB", "precio": "Bs 170,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/manillar-de-aluminio-wake-mtb"},
+        {"nombre": "Manillar de Carbono RACE FACE/EC90", "precio": "Bs 450,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/manillar-de-carbono-race-face-ec90"},
+        {"nombre": "MANUBRI CARBONO RACE FACE NEXT", "precio": "Bs 410,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/manubri-carbono-race-face-next"},
+        {"nombre": "PUÑO ODI PRO", "precio": "Bs 200,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/puno-odi-pro"}
+      ]
+    },
+    {
+      "nombre": "Cadena/Piñón",
+      "productos": [
+        {"nombre": "Cadena 10v TOOPRE", "precio": "Bs 185,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-10v-toopre"},
+        {"nombre": "Cadena 11v KMC x11EL", "precio": "Bs 540,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-11v-kmc-x11el"},
+        {"nombre": "Cadena 11v SRAM", "precio": "Bs 360,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-11v-sram"},
+        {"nombre": "Cadena 12v Shimano deore 6100", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-12v-shimano-deore-6100"},
+        {"nombre": "Cadena 8v TOOPRE", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-8v-toopre"},
+        {"nombre": "Cadena 9V TOOPRE", "precio": "Bs 155,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-9v-toopre"},
+        {"nombre": "Cadena de 9v Shimano", "precio": "Bs 300,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-de-9v-shimano"},
+        {"nombre": "Cadena kmc 12v negro", "precio": "Bs 790,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-12v-negro"},
+        {"nombre": "Cadena KMC HL1 Wide - Bmx", "precio": "Bs 350,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-hl1-wide-bmx"},
+        {"nombre": "Cadena KMC X10 Light Gold", "precio": "Bs 450,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-x10-light-gold"}
+      ]
+    },
+    {
+      "nombre": "Shifter/Desviador",
+      "productos": [
+        {"nombre": "Caja 11v Shimano 105", "precio": "Bs 750,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-11v-shimano-105"},
+        {"nombre": "Caja 12v Shimano deore", "precio": "Bs 620,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-12v-shimano-deore"},
+        {"nombre": "Caja 7v 8v genérico", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "15", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-8v-generico"},
+        {"nombre": "Caja 7v antiguo", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-antiguo"},
+        {"nombre": "Caja 7v Shimano tourney", "precio": "Bs 140,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-shimano-tourney"},
+        {"nombre": "Caja 8v Shimano Altus", "precio": "Bs 240,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-8v-shimano-altus"},
+        {"nombre": "Caja 9v Shimano Altus", "precio": "Bs 280,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-9v-shimano-altus"},
+        {"nombre": "Caja shimano 11v deore 5100", "precio": "Bs 570,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-11v-deore-5100"},
+        {"nombre": "Caja shimano deore 10v 5120", "precio": "Bs 540,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-deore-10v-5120"},
+        {"nombre": "Caja shimano SLX 7100", "precio": "Bs 920,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-slx-7100"}
+      ]
+    },
+    {
+      "nombre": "Tija/Sillín",
+      "productos": [
+        {"nombre": "Ajuste de tija (de tubo de sillín)", "precio": "Bs 110,00", "precio_original": "Bs 160,00", "descuento": "-31%", "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-de-tubo-de-sillin-1"},
+        {"nombre": "Ajuste de tija (de tubo de sillín)", "precio": "Bs 75,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-de-tubo-de-sillin-2"},
+        {"nombre": "Ajuste de tija (tubo de sillín)", "precio": "Bs 25,00", "precio_original": null, "descuento": null, "disponible": "10", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-tubo-de-sillin-1"},
+        {"nombre": "Ajuste de tija (tubo de sillín)", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "11", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-tubo-de-sillin-2"},
+        {"nombre": "Funda de gel para sillin", "precio": "Bs 50,00", "precio_original": null, "descuento": null, "disponible": "47", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/funda-de-gel-para-sillin"},
+        {"nombre": "Sillin con diseño", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/sillin-con-diseno"},
+        {"nombre": "Sillin con gel", "precio": "Bs 80,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/sillin-con-gel"},
+        {"nombre": "Sillin EC90 Ergo", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/sillin-ec90-ergo"},
+        {"nombre": "Sillin EC90 Power Comp", "precio": "Bs 380,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/sillin-ec90-power-comp"},
+        {"nombre": "Sillín pequeño", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/sillin-pequeno"}
+      ]
+    },
+    {
+      "nombre": "Freno/Pastilla/Disco",
+      "productos": [
+        {"nombre": "Aceite mineral hidráulico", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/aceite-mineral-hidraulico"},
+        {"nombre": "Adaptador de discos de Center look a pernos", "precio": "Bs 140,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/adaptador-de-discos-de-center-look-a-pernos"},
+        {"nombre": "Adaptador para macero Boost de 3 mm", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/adaptador-para-macero-boost-de-3-mm"},
+        {"nombre": "Chicotillo de caja económico", "precio": "Bs 5,00", "precio_original": null, "descuento": null, "disponible": "45", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-caja-economico"},
+        {"nombre": "Chicotillo de caja SRAM", "precio": "Bs 20,00", "precio_original": null, "descuento": null, "disponible": "15", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-caja-sram"},
+        {"nombre": "Chicotillo de freno mtb económico", "precio": "Bs 5,00", "precio_original": null, "descuento": null, "disponible": "47", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-mtb-economico"},
+        {"nombre": "Chicotillo de freno para ruta", "precio": "Bs 25,00", "precio_original": null, "descuento": null, "disponible": "100", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-para-ruta"},
+        {"nombre": "Chicotillo de freno RUTA - MONTAÑA", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-ruta-montana"},
+        {"nombre": "Disco de freno 140mm", "precio": "Bs 150,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/disco-de-freno-140mm"},
+        {"nombre": "Disco de freno 1800mm Center look", "precio": "Bs 550,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/disco-de-freno-1800mm-center-look"}
+      ]
+    },
+    {
+      "nombre": "Accesorios",
+      "productos": [
+        {"nombre": "Boquilla para C02", "precio": "Bs 65,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/boquilla-para-c02"},
+        {"nombre": "camel back/ mochila", "precio": "Bs 320,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camel-back-mochila"},
+        {"nombre": "camel back resistente", "precio": "Bs 280,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/camel-back-resistente"},
+        {"nombre": "Espaciadores Enlee", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/espaciadores-enlee"},
+        {"nombre": "estuche para celular", "precio": "Bs 100,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-para-celular"},
+        {"nombre": "Funda para horquilla VG Sports", "precio": "Bs 35,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/funda-para-horquilla-vg-sports"},
+        {"nombre": "Guardabarro Delantero Enlee", "precio": "Bs 40,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-delantero-enlee"},
+        {"nombre": "Guardabarro trasero", "precio": "Bs 20,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-trasero"},
+        {"nombre": "Guardabarro trasero Enlee", "precio": "Bs 35,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-trasero-enlee"},
+        {"nombre": "Guardabarros rockbros", "precio": "Bs 95,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/guardabarros-rockbros"}
+      ]
+    },
+    {
+      "nombre": "Nutrición",
+      "productos": [
+        {"nombre": "Barras Energybar", "precio": "Bs 22,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/barras-energybar"},
+        {"nombre": "barras integrales", "precio": "Bs 4,00", "precio_original": null, "descuento": null, "disponible": "117", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/barras-integrales"},
+        {"nombre": "Creatina monohidrata BODYACTION", "precio": "Bs 210,00", "precio_original": null, "descuento": null, "disponible": "46", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/creatina-monohidrata-bodyaction"},
+        {"nombre": "Creatina monohidratada", "precio": "Bs 235,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/creatina-monohidratada"},
+        {"nombre": "Dextrosa", "precio": "Bs 130,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/dextrosa"},
+        {"nombre": "Essencial-9 aminoácidos", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/essencial-9-aminoacidos"},
+        {"nombre": "Gel RECARB black con cafeína 600gr", "precio": "Bs 290,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-black-con-cafeina-600gr"},
+        {"nombre": "Gel Recarb Black con cafeína", "precio": "Bs 20,00", "precio_original": null, "descuento": null, "disponible": "47", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-black-con-cafeina"},
+        {"nombre": "Gel Recarb sin cafeína 600gr", "precio": "Bs 250,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-sin-cafeina-600gr"},
+        {"nombre": "Geles Energel, Caja de 10u.", "precio": "Bs 90,00", "precio_original": "Bs 110,00", "descuento": "-18%", "disponible": "77", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/geles-energel-caja-de-10u"}
+      ]
+    },
+    {
+      "nombre": "Biela/Platos",
+      "productos": [
+        {"nombre": "Biela BIPLATO 38-28 mod 6000", "precio": "Bs 1.300,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-biplato-38-28-mod-6000"},
+        {"nombre": "Biela Green Twister 104 BCD", "precio": "Bs 600,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-green-twister-104-bcd"},
+        {"nombre": "Biela izquierda", "precio": "Bs 50,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-izquierda"},
+        {"nombre": "Biela racework GPX", "precio": "Bs 780,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-racework-gpx"},
+        {"nombre": "Biela racework XT eje integrado", "precio": "Bs 750,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-racework-xt-eje-integrado"},
+        {"nombre": "Biela Shimano 105 R7100 50-34 12v", "precio": "Bs 1.600,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-105-r7100-50-34-12v"},
+        {"nombre": "Biela Shimano deore 6100", "precio": "Bs 1.220,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-deore-6100"},
+        {"nombre": "Biela Shimano deore M5100", "precio": "Bs 760,00", "precio_original": "Bs 850,00", "descuento": "-11%", "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-deore-m5100"},
+        {"nombre": "Biela Shimano SLX 7100", "precio": "Bs 1.600,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-slx-7100"},
+        {"nombre": "Biela triplato prowhell", "precio": "Bs 150,00", "precio_original": null, "descuento": null, "disponible": "11", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/biela-triplato-prowhell"}
+      ]
+    },
+    {
+      "nombre": "Grupos Completos",
+      "productos": [
+        {"nombre": "Grupo Shimano Deore M4100 10v", "precio": "Bs 3.050,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-deore-m4100-10v"},
+        {"nombre": "Grupo Shimano Deore M5100 11v", "precio": "Bs 3.480,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-deore-m5100-11v"},
+        {"nombre": "Grupo Shimano SLX M7100 12v", "precio": "Bs 4.900,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-slx-m7100-12v"}
+      ]
+    },
+    {
+      "nombre": "Gafas/Lentes",
+      "productos": [
+        {"nombre": "Lentes económicos", "precio": "Bs 50,00", "precio_original": "Bs 60,00", "descuento": "-17%", "disponible": "60", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lentes-economicos"},
+        {"nombre": "Lentes económicos amarillos y transparentes", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "18", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lentes-economicos-amarillos-y-transparentes"},
+        {"nombre": "Lentes foto cromáticos SCYCN", "precio": "Bs 280,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lentes-foto-cromaticos-scycn"},
+        {"nombre": "Lentes para niños", "precio": "Bs 45,00", "precio_original": null, "descuento": null, "disponible": "12", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lentes-para-ninos"}
+      ]
+    },
+    {
+      "nombre": "Botellones",
+      "productos": [
+        {"nombre": "Botella para proteína", "precio": "Bs 50,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botella-para-proteina"},
+        {"nombre": "botellón FLY", "precio": "Bs 105,00", "precio_original": null, "descuento": null, "disponible": "8", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botellon-fly"},
+        {"nombre": "Botellón rock bros", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botellon-rock-bros"},
+        {"nombre": "Botellones térmicos élite", "precio": "Bs 180,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botellones-termicos-elite"},
+        {"nombre": "Botellón 750ml rockbros", "precio": null, "precio_original": null, "descuento": null, "disponible": "0", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botellon-750ml-rockbros"},
+        {"nombre": "Botellón Fox 750 ml", "precio": null, "precio_original": null, "descuento": null, "disponible": "0", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/botellon-fox-750-ml"}
+      ]
+    },
+    {
+      "nombre": "Portabotellón/Accesorios",
+      "productos": [
+        {"nombre": "Porta botellón", "precio": "Bs 95,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/porta-botellon"},
+        {"nombre": "Porta botellón elite", "precio": "Bs 230,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/porta-botellon-elite"},
+        {"nombre": "Portabotellon", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-1"},
+        {"nombre": "Portabotellon", "precio": "Bs 100,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-2"},
+        {"nombre": "Portabotellon", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "10", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-3"},
+        {"nombre": "Portabotellon aluminio", "precio": "Bs 30,00", "precio_original": null, "descuento": null, "disponible": "19", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-aluminio"},
+        {"nombre": "Portabotellón elite ala", "precio": "Bs 190,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-elite-ala"},
+        {"nombre": "Portabotellon élite canníbal xc", "precio": "Bs 270,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-elite-canibal-xc"},
+        {"nombre": "Portabotellon lateral rockbros", "precio": "Bs 90,00", "precio_original": null, "descuento": null, "disponible": "4", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-lateral-rockbros"},
+        {"nombre": "Portabotellon ODI", "precio": "Bs 90,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-odi"}
+      ]
+    },
+    {
+      "nombre": "Bicicletas",
+      "productos": [
+        {"nombre": "bicicleta cicletrak", "precio": "Bs 3.290,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/bicicleta-cicletrak"},
+        {"nombre": "bicicleta cycletrak", "precio": "Bs 3.290,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/bicicleta-cycletrak"}
+      ]
+    },
+    {
+      "nombre": "Estuches",
+      "productos": [
+        {"nombre": "Estuche grande", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-grande"},
+        {"nombre": "Estuche impermeable", "precio": "Bs 110,00", "precio_original": null, "descuento": null, "disponible": "3", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-impermeable"},
+        {"nombre": "Estuche pequeño", "precio": "Bs 85,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-pequeno"},
+        {"nombre": "Estuche portacelular", "precio": "Bs 160,00", "precio_original": null, "descuento": null, "disponible": "2", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-portacelular"},
+        {"nombre": "Estuche trasero rockbros", "precio": "Bs 170,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/estuche-trasero-rockbros"}
+      ]
+    },
+    {
+      "nombre": "Soportes y Parqueos",
+      "productos": [
+        {"nombre": "Pata de apoyo", "precio": "Bs 60,00", "precio_original": null, "descuento": null, "disponible": "7", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/pata-de-apoyo"},
+        {"nombre": "Soporte para bicicleta", "precio": "Bs 70,00", "precio_original": null, "descuento": null, "disponible": "5", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/soporte-para-bicicleta"},
+        {"nombre": "Parqueo para bicicleta", "precio": null, "precio_original": null, "descuento": null, "disponible": "0", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/parqueo-para-bicicleta"}
+      ]
+    },
+    {
+      "nombre": "Others",
+      "productos": [
+        {"nombre": "Caja shimano XT 12v 8100", "precio": "Bs 1.550,00", "precio_original": null, "descuento": null, "disponible": "1", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-xt-12v-8100"},
+        {"nombre": "lentes okley", "precio": "Bs 270,00", "precio_original": "Bs 290,00", "descuento": "-7%", "disponible": "42", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/lentes-okley"},
+        {"nombre": "rodillo de 3", "precio": "Bs 1.150,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/rodillo-de-3"},
+        {"nombre": "Zapatillas", "precio": "Bs 0,00", "precio_original": null, "descuento": null, "disponible": "undefined", "imagen": null, "url": "https://valkiriabikes.kyte.site/en/p/zapatillas"}
+      ]
+    }
+  ]
+}

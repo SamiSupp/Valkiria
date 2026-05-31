@@ -1,0 +1,170 @@
+[
+  {
+    "nombre": "Ciclocomputadores",
+    "slug": "ciclocomputadores",
+    "color": "#3A5BA8",
+    "total": 10
+  },
+  {
+    "nombre": "Infladores",
+    "slug": "infladores",
+    "color": "#7A9E5B",
+    "total": 9
+  },
+  {
+    "nombre": "Aros",
+    "slug": "aros",
+    "color": "#5B6B7A",
+    "total": 2
+  },
+  {
+    "nombre": "Horquilla",
+    "slug": "horquilla",
+    "color": "#A06A3B",
+    "total": 9
+  },
+  {
+    "nombre": "Linternas",
+    "slug": "linternas",
+    "color": "#B89160",
+    "total": 10
+  },
+  {
+    "nombre": "Tubeles",
+    "slug": "tubeles",
+    "color": "#4A5B7C",
+    "total": 10
+  },
+  {
+    "nombre": "Cascos",
+    "slug": "cascos",
+    "color": "#0F1B3D",
+    "total": 10
+  },
+  {
+    "nombre": "Indumentaria",
+    "slug": "indumentaria",
+    "color": "#8A4F4F",
+    "total": 10
+  },
+  {
+    "nombre": "Cubierta/Neumático",
+    "slug": "cubiertaneumatico",
+    "color": "#2A2A2A",
+    "total": 10
+  },
+  {
+    "nombre": "Lubricantes",
+    "slug": "lubricantes",
+    "color": "#C97F4A",
+    "total": 10
+  },
+  {
+    "nombre": "Pedales/Calas",
+    "slug": "pedalescalas",
+    "color": "#5C5C5C",
+    "total": 10
+  },
+  {
+    "nombre": "Herramientas",
+    "slug": "herramientas",
+    "color": "#5B7A8A",
+    "total": 10
+  },
+  {
+    "nombre": "Manillar/Stem/Puños",
+    "slug": "manillarstempunos",
+    "color": "#6B5B95",
+    "total": 10
+  },
+  {
+    "nombre": "Cadena/Piñón",
+    "slug": "cadenapinon",
+    "color": "#3F3F3F",
+    "total": 10
+  },
+  {
+    "nombre": "Shifter/Desviador",
+    "slug": "shifterdesviador",
+    "color": "#4A5B7C",
+    "total": 10
+  },
+  {
+    "nombre": "Tija/Sillín",
+    "slug": "tijasillin",
+    "color": "#7A5C3B",
+    "total": 10
+  },
+  {
+    "nombre": "Freno/Pastilla/Disco",
+    "slug": "frenopastilladisco",
+    "color": "#9C2B2B",
+    "total": 10
+  },
+  {
+    "nombre": "Accesorios",
+    "slug": "accesorios",
+    "color": "#34466F",
+    "total": 10
+  },
+  {
+    "nombre": "Nutrición",
+    "slug": "nutricion",
+    "color": "#7A5C2B",
+    "total": 10
+  },
+  {
+    "nombre": "Biela/Platos",
+    "slug": "bielaplatos",
+    "color": "#5B5B5B",
+    "total": 10
+  },
+  {
+    "nombre": "Grupos Completos",
+    "slug": "grupos-completos",
+    "color": "#1A2747",
+    "total": 3
+  },
+  {
+    "nombre": "Gafas/Lentes",
+    "slug": "gafaslentes",
+    "color": "#2A3450",
+    "total": 4
+  },
+  {
+    "nombre": "Botellones",
+    "slug": "botellones",
+    "color": "#4A6FA5",
+    "total": 6
+  },
+  {
+    "nombre": "Portabotellón/Accesorios",
+    "slug": "portabotellonaccesorios",
+    "color": "#3F5B7A",
+    "total": 10
+  },
+  {
+    "nombre": "Bicicletas",
+    "slug": "bicicletas",
+    "color": "#0A1126",
+    "total": 2
+  },
+  {
+    "nombre": "Estuches",
+    "slug": "estuches",
+    "color": "#3F3F3F",
+    "total": 5
+  },
+  {
+    "nombre": "Soportes y Parqueos",
+    "slug": "soportes-y-parqueos",
+    "color": "#5B5B5B",
+    "total": 3
+  },
+  {
+    "nombre": "Others",
+    "slug": "others",
+    "color": "#6B7B95",
+    "total": 4
+  }
+]

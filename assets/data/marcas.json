@@ -1,13 +1,458 @@
 [
-  { "id": "canyon",      "nombre": "Canyon",      "pais": "Alemania",       "categoria": "Bicicletas",    "descripcion": "Bicicletas de carretera, MTB y gravel diseñadas para máximo rendimiento, vendidas directo del fabricante." },
-  { "id": "fox-racing",  "nombre": "Fox Racing",  "pais": "Estados Unidos", "categoria": "Vestimenta",    "descripcion": "Pioneros del MTB, BMX y motocross. Equipo de protección y vestimenta para ride agresivo." },
-  { "id": "specialized", "nombre": "Specialized", "pais": "Estados Unidos", "categoria": "Bicicletas",    "descripcion": "Innovación constante en geometría Body Geometry y tecnología FACT Carbon." },
-  { "id": "shimano",     "nombre": "Shimano",     "pais": "Japón",          "categoria": "Componentes",   "descripcion": "Estándar mundial en grupos, frenos hidráulicos y pedales. Precisión japonesa." },
-  { "id": "trek",        "nombre": "Trek",        "pais": "Estados Unidos", "categoria": "Bicicletas",    "descripcion": "OCLV Carbon y tecnología IsoSpeed/IsoFlow para todas las disciplinas." },
-  { "id": "garmin",      "nombre": "Garmin",      "pais": "Estados Unidos", "categoria": "Tecnología",    "descripcion": "Ciclocomputadores GPS y métricas avanzadas de rendimiento." },
-  { "id": "maxxis",      "nombre": "Maxxis",      "pais": "Taiwán",         "categoria": "Componentes",   "descripcion": "Llantas de MTB, carretera y gravel para todos los terrenos." },
-  { "id": "100",         "nombre": "100%",        "pais": "Estados Unidos", "categoria": "Accesorios",    "descripcion": "Gafas y goggles de alto rendimiento con lentes Hiper®." },
-  { "id": "pearl-izumi", "nombre": "Pearl Izumi", "pais": "Estados Unidos", "categoria": "Vestimenta",    "descripcion": "Vestimenta técnica con tejidos termoreguladores y patrones ergonómicos." },
-  { "id": "castelli",    "nombre": "Castelli",    "pais": "Italia",         "categoria": "Vestimenta",    "descripcion": "Vestimenta italiana de ciclismo profesional. Pelotón WorldTour desde 1876." },
-  { "id": "wahoo",       "nombre": "Wahoo",       "pais": "Estados Unidos", "categoria": "Tecnología",    "descripcion": "Rodillos inteligentes y dispositivos de entrenamiento conectados." }
+  {
+    "id": "shimano",
+    "nombre": "Shimano",
+    "pais": "Japón",
+    "categoria": "Componentes",
+    "descripcion": "Estándar mundial en grupos, transmisiones y frenos. Precisión japonesa.",
+    "productos": 25
+  },
+  {
+    "id": "rockbros",
+    "nombre": "Rockbros",
+    "pais": "China",
+    "categoria": "Accesorios",
+    "descripcion": "Accesorios funcionales: linternas, infladores y herramientas confiables.",
+    "productos": 10
+  },
+  {
+    "id": "abus",
+    "nombre": "Abus",
+    "pais": "Alemania",
+    "categoria": "Cascos",
+    "descripcion": "Líder europeo en cascos certificados y seguridad para ciclistas urbanos y de ruta.",
+    "productos": 9
+  },
+  {
+    "id": "chaoyang",
+    "nombre": "Chaoyang",
+    "pais": "China",
+    "categoria": "Cubiertas",
+    "descripcion": "Neumáticos versátiles para todos los terrenos.",
+    "productos": 6
+  },
+  {
+    "id": "giyo",
+    "nombre": "Giyo",
+    "pais": "Taiwán",
+    "categoria": "Herramientas",
+    "descripcion": "Infladores y bombas portátiles de referencia.",
+    "productos": 5
+  },
+  {
+    "id": "look",
+    "nombre": "Look",
+    "pais": "Francia",
+    "categoria": "Pedales",
+    "descripcion": "Pioneros del pedal automático profesional.",
+    "productos": 5
+  },
+  {
+    "id": "odi",
+    "nombre": "ODI",
+    "pais": "Estados Unidos",
+    "categoria": "Manillar",
+    "descripcion": "Puños y grips para MTB y BMX con compuestos exclusivos.",
+    "productos": 5
+  },
+  {
+    "id": "igpsport",
+    "nombre": "IGPSPORT",
+    "pais": "China",
+    "categoria": "Tecnología",
+    "descripcion": "Ciclocomputadores GPS con métricas avanzadas a precio accesible.",
+    "productos": 4
+  },
+  {
+    "id": "ajuste",
+    "nombre": "Ajuste",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Ajuste disponibles en nuestro catálogo.",
+    "productos": 4
+  },
+  {
+    "id": "stans-notubes",
+    "nombre": "Stan's NoTubes",
+    "pais": "Estados Unidos",
+    "categoria": "Tubeless",
+    "descripcion": "Inventores del sistema tubeless moderno.",
+    "productos": 3
+  },
+  {
+    "id": "pedros",
+    "nombre": "Pedro's",
+    "pais": "Estados Unidos",
+    "categoria": "Lubricantes",
+    "descripcion": "Lubricantes y desengrasantes premium para mantenimiento.",
+    "productos": 3
+  },
+  {
+    "id": "toopre",
+    "nombre": "TOOPRE",
+    "pais": "China",
+    "categoria": "Componentes",
+    "descripcion": "Componentes técnicos con relación precio-rendimiento excelente.",
+    "productos": 3
+  },
+  {
+    "id": "kmc",
+    "nombre": "KMC",
+    "pais": "Taiwán",
+    "categoria": "Cadenas",
+    "descripcion": "Cadenas premium para cualquier transmisión.",
+    "productos": 3
+  },
+  {
+    "id": "igs-sport",
+    "nombre": "iGS Sport",
+    "pais": "China",
+    "categoria": "Tecnología",
+    "descripcion": "Sensores y dispositivos para entrenamiento conectado.",
+    "productos": 2
+  },
+  {
+    "id": "tosek",
+    "nombre": "Tosek",
+    "pais": "Taiwán",
+    "categoria": "Horquillas",
+    "descripcion": "Horquillas de carbono ligero y rígido.",
+    "productos": 2
+  },
+  {
+    "id": "squirt",
+    "nombre": "Squirt",
+    "pais": "Sudáfrica",
+    "categoria": "Lubricantes",
+    "descripcion": "Lubricantes de cera ecológicos.",
+    "productos": 2
+  },
+  {
+    "id": "aluminio",
+    "nombre": "Aluminio",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Aluminio disponibles en nuestro catálogo.",
+    "productos": 2
+  },
+  {
+    "id": "supacaz",
+    "nombre": "Supacaz",
+    "pais": "Estados Unidos",
+    "categoria": "Cintas",
+    "descripcion": "Cintas de manillar de colores y grip extremo.",
+    "productos": 2
+  },
+  {
+    "id": "race-face",
+    "nombre": "Race Face",
+    "pais": "Canadá",
+    "categoria": "Componentes",
+    "descripcion": "Componentes MTB para rendimiento agresivo.",
+    "productos": 2
+  },
+  {
+    "id": "sram",
+    "nombre": "SRAM",
+    "pais": "Estados Unidos",
+    "categoria": "Componentes",
+    "descripcion": "Grupos eTap inalámbricos y frenos hidráulicos premium.",
+    "productos": 2
+  },
+  {
+    "id": "enlee",
+    "nombre": "Enlee",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Enlee disponibles en nuestro catálogo.",
+    "productos": 2
+  },
+  {
+    "id": "recarb",
+    "nombre": "Recarb",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Recarb disponibles en nuestro catálogo.",
+    "productos": 2
+  },
+  {
+    "id": "cube",
+    "nombre": "Cube",
+    "pais": "Alemania",
+    "categoria": "Bicicletas",
+    "descripcion": "Bicicletas premium para todas las disciplinas.",
+    "productos": 1
+  },
+  {
+    "id": "neco",
+    "nombre": "Neco",
+    "pais": "Taiwán",
+    "categoria": "Direcciones",
+    "descripcion": "Juegos de dirección y headsets.",
+    "productos": 1
+  },
+  {
+    "id": "light",
+    "nombre": "LIGHT",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos LIGHT disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "luz",
+    "nombre": "Luz",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Luz disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "seemee",
+    "nombre": "Seemee",
+    "pais": "Estados Unidos",
+    "categoria": "Iluminación",
+    "descripcion": "Luces traseras inteligentes con radar.",
+    "productos": 1
+  },
+  {
+    "id": "tessa",
+    "nombre": "Tessa",
+    "pais": "Taiwán",
+    "categoria": "Tubeless",
+    "descripcion": "Soluciones tubeless para todos los rims.",
+    "productos": 1
+  },
+  {
+    "id": "ztto",
+    "nombre": "ZTTO",
+    "pais": "China",
+    "categoria": "Componentes",
+    "descripcion": "Componentes técnicos de bajo costo y alta durabilidad.",
+    "productos": 1
+  },
+  {
+    "id": "antipinchante",
+    "nombre": "ANTIPINCHANTE",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos ANTIPINCHANTE disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "lenovo",
+    "nombre": "Lenovo",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Lenovo disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "ism",
+    "nombre": "ISM",
+    "pais": "Estados Unidos",
+    "categoria": "Sillines",
+    "descripcion": "Sillines anatómicos sin pico para confort prolongado.",
+    "productos": 1
+  },
+  {
+    "id": "rock",
+    "nombre": "Rock",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Rock disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "sporttex",
+    "nombre": "Sporttex",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Sporttex disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "acimut",
+    "nombre": "Acimut",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Acimut disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "massi",
+    "nombre": "Massi",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Massi disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "premium",
+    "nombre": "Premium",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Premium disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "silca",
+    "nombre": "Silca",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Silca disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "time",
+    "nombre": "Time",
+    "pais": "Francia",
+    "categoria": "Pedales",
+    "descripcion": "Pedales pioneros del clip automático multidisciplina.",
+    "productos": 1
+  },
+  {
+    "id": "quicklink",
+    "nombre": "QuickLink",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos QuickLink disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "toopre",
+    "nombre": "Toopre",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Toopre disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "risk",
+    "nombre": "RISK",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos RISK disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "ergo",
+    "nombre": "Ergo",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Ergo disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "power",
+    "nombre": "Power",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Power disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "boost",
+    "nombre": "Boost",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Boost disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "ruta",
+    "nombre": "RUTA",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos RUTA disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "esi",
+    "nombre": "ESI",
+    "pais": "Estados Unidos",
+    "categoria": "Grips",
+    "descripcion": "Puños de silicona livianos y absorbentes.",
+    "productos": 1
+  },
+  {
+    "id": "sports",
+    "nombre": "Sports",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Sports disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "delantero",
+    "nombre": "Delantero",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Delantero disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "energybar",
+    "nombre": "Energybar",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Energybar disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "bodyaction",
+    "nombre": "BODYACTION",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos BODYACTION disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "recarb",
+    "nombre": "RECARB",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos RECARB disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "energel",
+    "nombre": "Energel",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Energel disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "biplato",
+    "nombre": "BIPLATO",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos BIPLATO disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "green",
+    "nombre": "Green",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos Green disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "gpx",
+    "nombre": "GPX",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos GPX disponibles en nuestro catálogo.",
+    "productos": 1
+  },
+  {
+    "id": "scycn",
+    "nombre": "SCYCN",
+    "pais": "Internacional",
+    "categoria": "Componentes",
+    "descripcion": "Productos SCYCN disponibles en nuestro catálogo.",
+    "productos": 1
+  }
 ]
