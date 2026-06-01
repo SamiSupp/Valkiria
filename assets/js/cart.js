@@ -16,18 +16,23 @@ export const Cart = {
   count() { return this.read().reduce((n, it) => n + it.qty, 0); },
   total() { return this.read().reduce((s, it) => s + it.price * it.qty, 0); },
   add(item) {
+    const opt = item.option || '';
     const items = this.read();
-    const idx = items.findIndex(i => i.id === item.id && i.option === item.option);
+    const idx = items.findIndex(i => i.id === item.id && (i.option || '') === opt);
     if (idx >= 0) items[idx].qty += item.qty || 1;
-    else items.push({ ...item, qty: item.qty || 1 });
+    else items.push({ ...item, option: opt, qty: item.qty || 1 });
     this.write(items);
   },
   remove(id, option) {
-    const items = this.read().filter(i => !(i.id === id && i.option === option));
+    const opt = option || '';
+    const items = this.read().filter(i => !(i.id === id && (i.option || '') === opt));
     this.write(items);
   },
   setQty(id, option, qty) {
-    const items = this.read().map(i => (i.id === id && i.option === option) ? { ...i, qty: Math.max(1, qty) } : i);
+    const opt = option || '';
+    const items = this.read().map(i =>
+      (i.id === id && (i.option || '') === opt) ? { ...i, qty: Math.max(1, qty) } : i
+    );
     this.write(items);
   },
   clear() { this.write([]); },

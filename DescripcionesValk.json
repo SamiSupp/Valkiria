@@ -1,0 +1,1092 @@
+{
+  "tienda": "Valkiria Bikes",
+  "total": 217,
+  "con_descripcion": 95,
+  "productos": [
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadenciometro-igsport-6970817350176/1755032612686-FOwmM",
+      "nombre": "Cadenciómetro igsport",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc-300t-httpsqrcodesio82lncs/1755031958470-FOwmM",
+      "nombre": "Ciclocomputador IGPSPORT BSC 300T",
+      "descripcion": "Es un ciclocomputador GPS con pantalla táctil a color de 2,4 pulgadas. \nOfrece navegación con mapas sin conexión y advertencia de desvío. \nEs compatible con una amplia gama de datos, incluyendo los de bicicletas eléctricas y Di2. \nCuenta con resistencia al agua IPX7 y conectividad Bluetooth y ANT+. \nSu diseño es ultradelgado y ligero, con un peso de solo 67g."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc100-6970817350473/1755030794003-FOwmM",
+      "nombre": "ciclocomputador IGPSPORT BSC100",
+      "descripcion": "Características principales:\nEste dispositivo registra y muestra datos de ciclismo en tiempo real, como velocidad, distancia, potencia, cadencia y frecuencia cardíaca.\nConectividad:\nEs inalámbrico, compatible con BLE5.0/ANT+, y puede conectarse con varios sensores como los de velocidad, cadencia, frecuencia cardíaca y medidores de potencia.\nFunciones inteligentes:\nIncluye retroiluminación automática, pausa/suspensión/vuelta automáticas y funciones de advertencia.\nDuración de la batería y almacenamiento:\nOfrece hasta 40 horas de duración de batería y 250 horas de almacenamiento de datos.\nResistencia y diseño:\nEs resistente al agua con certificación IPX7 y tiene un diseño compacto y ligero."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc200-6970817350497/1755031098699-FOwmM",
+      "nombre": "Ciclocomputador IGPSPORT BSC200",
+      "descripcion": "Funcionalidades de GPS:\nOfrece navegación precisa y es compatible con múltiples sistemas de posicionamiento global (GPS, GLONASS, BeiDou, GALILEO y QZSS) para una ubicación más rápida y precisa. \nPantalla y visualización de datos:\nCuenta con una pantalla de 2.5 pulgadas que muestra datos completos de ciclismo como velocidad, distancia, rumbo y trayectoria en tiempo real. \nConectividad y sincronización:\nSoporta Bluetooth y ANT+ para la conexión con sensores (velocidad, cadencia, frecuencia cardíaca, potenciómetros) y permite la sincronización de datos con la aplicación iGPSPORT para análisis. \nBatería y diseño:\nPosee una batería de larga duración (hasta 30 horas) y un diseño robusto e impermeable (IPX7), ideal para uso en exteriores. \nPlanificación de rutas:\nEs compatible con diversos métodos de planificación de rutas y permite la importación rápida de archivos de ruta (GPX/TCX/FIT/CNX)."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ciclocomputador-igpsport-bsc300/1755031389401-FOwmM",
+      "nombre": "Ciclocomputador IGPSPORT BSC300",
+      "descripcion": "Es un ciclocomputador GPS de gama media con pantalla a color de 2.4 pulgadas. \nOfrece navegación con mapas y navegación paso a paso, incluyendo mapas globales sin conexión. \nEs compatible con sensores ANT+ y Bluetooth como medidores de potencia, cadencia y frecuencia cardíaca. \nCuenta con una autonomía de batería de hasta 20 horas y se carga mediante USB tipo C. \nSe puede sincronizar con la aplicación iGPSPORT para análisis de datos y compartir con plataformas como Strava o Komoot."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sensor-de-cadencia/1765398348532-FOwmM",
+      "nombre": "Sensor de cadencia",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sensor-de-frecuencia-cardiaca-6970817350121/1755032450946-FOwmM",
+      "nombre": "Sensor de frecuencia cardíaca",
+      "descripcion": "Es un monitor de frecuencia cardíaca de doble banda con conectividad ANT+ y Bluetooth, compatible con ciclocomputadores como iGPSPORT, Garmin, Polar, Wahoo, Bryton, Sigma, y también con smartphones o tablets a través de aplicaciones de entrenamiento compatibles. \nUtiliza tecnología de medición de electrocardiograma avanzada para proporcionar datos precisos de frecuencia cardíaca. \nEs resistente al agua con certificación IPX7, lo que lo hace adecuado para actividades como natación. \nTiene una batería de larga duración (CR2032) que puede durar hasta 1200 horas de uso. \nLa correa textil es cómoda y ajustable para diferentes tamaños de pecho."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/soporte-de-ciclocomputador/1754946286836-FOwmM",
+      "nombre": "Soporte de ciclocomputador",
+      "descripcion": "Material de carbono"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/soporte-de-ciclocomputador/1754946466607-FOwmM",
+      "nombre": "Soporte de ciclocomputador",
+      "descripcion": "Material de aluminio"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/soporte-frontal-igsport-m80-6970817351890/1755032182398-FOwmM",
+      "nombre": "Soporte frontal igsport M80",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-de-piso-giyo/1739237376657-FOwmM",
+      "nombre": "Inflador de piso Giyo",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-electronico-rockbros/1755029546451-FOwmM",
+      "nombre": "Inflador electrónico ROCKBROS",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-electronico-rockbros-con-medidor-digital/1755029772843-FOwmM",
+      "nombre": "Inflador electrónico ROCKBROS con medidor digital",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo/1754694128066-FOwmM",
+      "nombre": "Inflador GIYO",
+      "descripcion": "Inflador giyo con medidor y doble boquilla"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-air-compact/1739138885764-FOwmM",
+      "nombre": "Inflador Giyo Air Compact",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-airtank/1739063459108-FOwmM",
+      "nombre": "Inflador Giyo AirTank",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-giyo-mediano/1754695360545-FOwmM",
+      "nombre": "Inflador Giyo mediano",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-pequeno/1754774231894-FOwmM",
+      "nombre": "Inflador pequeño",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/inflador-pequeno-con-manguera/1754695604142-FOwmM",
+      "nombre": "Inflador pequeño con manguera",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/radios/1755383340674-FOwmM",
+      "nombre": "Radios",
+      "descripcion": "Docena 18 bs \nMedidas 29, 28, 26, 25.5 , 24"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/radios-acero-inoxidable/1755383459618-FOwmM",
+      "nombre": "Radios acero inoxidable",
+      "descripcion": "Docena 40 bs"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/horquilla-aluminio-cube/1755042970066-FOwmM",
+      "nombre": "Horquilla aluminio cube",
+      "descripcion": "Material de aluminio \nAro 29\nTubo recto \nAjuste normal"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/horquilla-de-fibra-de-carbono-tosek-no-boost/1755042800283-FOwmM",
+      "nombre": "Horquilla de fibra de carbono TOSEK no boost",
+      "descripcion": "Marca tosek \nEje pasante \nNo Boost \nCónico"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/horquilla-fibra-de-carbono-tosek/1755042902640-FOwmM",
+      "nombre": "Horquilla fibra de carbono TOSEK",
+      "descripcion": "Fibra de carbono \nAjuste rápido \nTuvo recto \nMarca tosek"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-18-a-rodamiento/1755044151813-FOwmM",
+      "nombre": "Juego de dirección 1/8 a rodamiento",
+      "descripcion": "Juego de dirección para horquilla recta \nA rodamiento \nMarca ZTTO"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-conico/1755044346711-FOwmM",
+      "nombre": "Juego de dirección cónico",
+      "descripcion": "Juego de dirección cónico para cuadro de carbono \nMás araña para carbono\nMarca ZTTO"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-neco-18/1755044028657-FOwmM",
+      "nombre": "Juego de dirección neco 1/8",
+      "descripcion": "Juego de dirección para horquilla recta \nA perdigón"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/repuesto-para-horquilla/1754956682989-FOwmM",
+      "nombre": "Repuesto para horquilla",
+      "descripcion": "Medidas 32-34-36"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/arana-para-horquilla-de-carbono/1755043838713-FOwmM",
+      "nombre": "ARAÑA para horquilla de carbono",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/juego-de-direccion-con-cubetas/1755044586369-FOwmM",
+      "nombre": "Juego de dirección con cubetas",
+      "descripcion": "Juego de dirección cónico con cubetas \nMarca ZTTO"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/bocina-rock-bros/1754600586922-FOwmM",
+      "nombre": "Bocina rock bros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-1000-lumines-rockbros/1758745552823-FOwmM",
+      "nombre": "Linterna 1000 lumines rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-2-en-1-8853152044369/1739230222211-FOwmM",
+      "nombre": "Linterna 2 en 1",
+      "descripcion": "La linterna 2 en 1 de Valkiria Bikes es tu compañera ideal para tus aventuras en bicicleta. Con una potente bocina integrada para tu seguridad, esta linterna recargable te brinda hasta 3 horas de luz constante. Su diseño ergonómico con agarrador de plástico la hace fácil de llevar contigo. ¡Ilumina tu camino y sé visible en todo momento con este accesorio imprescindible! ¡Hazte con la tuya ahora mismo!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-light-y-motion/1754945338654-FOwmM",
+      "nombre": "Linterna LIGHT y MOTION",
+      "descripcion": "Linterna delantera y trasera"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-luz-blanca-y-roja/1754601062112-FOwmM",
+      "nombre": "Linterna Luz Blanca y roja",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-600-lumenes-24710002001/1739229160070-FOwmM",
+      "nombre": "Linterna Rockbros 600 Lumenes",
+      "descripcion": "ROCKBROS Luces Bicicleta LED Recargable USB 600 Lúmenes, Faro Delantero Potente IPX6 Impermeable de Bicicleta con 5 Modos Fijos e Intermitentes Luz para Montaña y Carretera"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-800-lumenes-24710012001/1739229189927-FOwmM",
+      "nombre": "Linterna Rockbros 800 Lumenes",
+      "descripcion": "La linterna Rockbros 800 Lúmenes es la elección ideal para los amantes del ciclismo que buscan calidad y rendimiento. Con tecnología LED premium, este faro delantero garantiza una luminosidad superior en tus rutas. Ilumina tu camino con confianza y seguridad. ¡Hazte con la tuya ahora en Valkiria Bikes y disfruta de una experiencia de ciclismo única! ¡No dejes pasar esta oportunidad!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-seemeer300/1778013825603-FOwmM",
+      "nombre": "Linterna SEEMEER300",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-trasera/1754600905716-FOwmM",
+      "nombre": "Linterna trasera",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/linterna-trasera-con-guineador/1754600831733-FOwmM",
+      "nombre": "Linterna trasera con guiñeador",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/audifonos-lenovo-x3-pro/1758838991206-FOwmM",
+      "nombre": "Audífonos Lenovo X3 pro",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/bolsa-de-agua-de-2-litros/1756429962844-FOwmM",
+      "nombre": "Bolsa de agua de 2 litros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/bolso-para-ciclismo/1754603702013-FOwmM",
+      "nombre": "Bolso para ciclismo",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff/1756336047143-FOwmM",
+      "nombre": "Buff",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff-bandana/1739058856184-FOwmM",
+      "nombre": "Buff - bandana",
+      "descripcion": "bandana multifuncional"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff-de-invierno/1755725275796-FOwmM",
+      "nombre": "Buff de invierno",
+      "descripcion": "Marca rock bros"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff-rock-bros/1755724546112-FOwmM",
+      "nombre": "Buff Rock bros",
+      "descripcion": "Buff de verano marca Rock bros"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff-sporttex/1739058901078-FOwmM",
+      "nombre": "Buff Sporttex",
+      "descripcion": "disponible en pasamontañas 50 bs\nY badanas 45 bs \nmaterial de algodon \nproteccion UV"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/buff-supay/1754172679282-FOwmM",
+      "nombre": "Buff supay",
+      "descripcion": "Material de algodón"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calza-larga-con-tiros/1754173629171-FOwmM",
+      "nombre": "Calza larga con tiros",
+      "descripcion": "Calza larga con tiros \nBadana de gel\nCon bolsillo a un lado\nPreguntar por tallas disponibles"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-airbraker/1739054854681-FOwmM",
+      "nombre": "Casco Abus Airbraker",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-gamechanger/1739054775802-FOwmM",
+      "nombre": "Casco Abus Gamechanger",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-macator/1739054965426-FOwmM",
+      "nombre": "Casco Abus Macator",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-modrop/1739055211255-FOwmM",
+      "nombre": "Casco Abus Modrop",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-powerdome/1739055330143-FOwmM",
+      "nombre": "Casco Abus Powerdome",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-stormchaser/1739055052753-FOwmM",
+      "nombre": "Casco Abus Stormchaser",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-urbani-30/1739055185536-FOwmM",
+      "nombre": "Casco Abus Urban-i 3.0",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-viantor/1739054908773-FOwmM",
+      "nombre": "Casco Abus Viantor",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-abus-viantor-mips/1739055016087-FOwmM",
+      "nombre": "Casco Abus Viantor MIPS",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/casco-cairbull-2/1756428402803-FOwmM",
+      "nombre": "Casco cairbull #2",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-16x2125/1758640178658-FOwmM",
+      "nombre": "Cámara 16x2.125",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-24-av/1753998569073-FOwmM",
+      "nombre": "Cámara 24 AV",
+      "descripcion": "Cámara AV 24"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-26-av-chaoyang-6927116119072/1753998475574-FOwmM",
+      "nombre": "Cámara 26 AV Chaoyang",
+      "descripcion": "Cámara AV 26"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-26-chaoyang-6927116174002/1753996851837-FOwmM",
+      "nombre": "Cámara 26 Chaoyang",
+      "descripcion": "Cámara aro 26 \nCon líquido antipinchazos \nYa no más parches!! \nUna vez que entra el espino, el líquido actúa inmediatamente y crea un grumo para sellar."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-275-av-chaoyang-6927116119041/1753998339949-FOwmM",
+      "nombre": "Cámara 27.5 Av Chaoyang",
+      "descripcion": "Cámara válvula normal AV"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-275-chaoyang-6938112678623/1753998224226-FOwmM",
+      "nombre": "Cámara 27.5 Chaoyang",
+      "descripcion": "Válvula francesa desmontable \n27.5 x 2.25/2.50"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-28-x-112/1753998810156-FOwmM",
+      "nombre": "Cámara 28 x 1-1/2",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-29-chaoyang/1753997056893-FOwmM",
+      "nombre": "Cámara 29 Chaoyang",
+      "descripcion": "Cámara 29 con líquido antipinchazos \nVálvula normal \nYa no más parches..."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-29-chaoyang-6927116185602/1753997684719-FOwmM",
+      "nombre": "Cámara 29 Chaoyang",
+      "descripcion": "Cámara con válvula francesa y válvula normal\nCalidad y durabilidad"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camara-acimut-700c-6933882573956/1739232057977-FOwmM",
+      "nombre": "Camara Acimut 700c",
+      "descripcion": "Cámara de ruta\n700x18/25c\nVálvula francesa \nválvula con longitud de 48mm"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/aceite-de-cadena-massi-500-ml/1739066462191-FOwmM",
+      "nombre": "Aceite de cadena Massi 500 ml",
+      "descripcion": "lubricante teflonado \nDe 500 ml \nmodo de aplicacion: una gota cada eslabon\nPrimero lavar la cadena"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grasa-para-carbono/1755030088443-FOwmM",
+      "nombre": "Grasa para carbono",
+      "descripcion": "Crema antideslizante\nEs una crema antideslizante diseñada para aplicar en uniones de fibra de carbono o metal en componentes de bicicleta. \nAyuda a aumentar la fricción y la estabilidad, previniendo el deslizamiento de piezas como tijas de sillín, manillares o extensiones de manillar. \nPermite reducir el torque de apriete necesario hasta en un 30% al ensamblar piezas, lo que puede prevenir daños por un ajuste excesivo. \nViene en un envase de 80ml y es fácil de aplicar directamente sobre las piezas antes de asegurarlas."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grasa-premium-motorex-850-g-7611197143710/1739066799823-FOwmM",
+      "nombre": "Grasa Premium Motorex 850 g.",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grasa-premium-shimano/1755726901851-FOwmM",
+      "nombre": "Grasa premium shimano",
+      "descripcion": "lubricante de alta calidad diseñado específicamente para el mantenimiento de componentes de bicicleta. \nUso principal:\nSe utiliza para lubricar rodamientos de bujes, direcciones y ejes de pedalier, prolongando la vida útil de los componentes y asegurando un funcionamiento suave. \nCaracterísticas:\nEs resistente al agua y a la suciedad, lo que ayuda a proteger los rodamientos de la corrosión y el desgaste. \nCompatibilidad:\nEs segura para usar con arandelas de goma y juntas, ya que no las daña. \nAplicación:\nViene en un práctico envase con pico aplicador para una colocación precisa de la cantidad necesaria."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-ceramico-squirt-120-ml-6009685090003/1739066561701-FOwmM",
+      "nombre": "Lubricante cerámico Squirt 120 ml",
+      "descripcion": "Descubre el Lubricante Cerámico Squirt 120 ml, la innovación que tu bicicleta necesita. Con una fórmula única que prolonga la vida útil de tu cadena y piñones en un 80%. Olvídate de ensuciar tus manos y de los molestos ruidos. ¡Haz que tu pedalada sea más suave y eficiente! ¡Mejora tu experiencia ciclista con Valkiria Bikes! ¡Hazte con el tuyo ahora!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-ceramico-squirt-15-ml-6009685090119/1739066551395-FOwmM",
+      "nombre": "Lubricante cerámico Squirt 15 ml",
+      "descripcion": "Squirtlube es una emulsión innovadora que contiene cuatro tipos de cera y agua.\n\nEste es el tamaño normal y el producto principal de la gama.\n\nLo más destacado:\nUn cambio suave y eficiente\nLas manos negras, las pinzas de cadena y la cadena chirriante son cosa del pasado.\nPoco desgaste. La cadena y los piñones tienen al menos un 80% más de vida.\nNunca desengrase o limpie a alta presión la cadena de nuevo – cepillar o frotar si es necesario es suficiente."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-enduro-0790983296124/1739066298255-FOwmM",
+      "nombre": "Lubricante Pedro&#x27;s - Enduro",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-light-wet-lube-0790983292102/1739066212070-FOwmM",
+      "nombre": "Lubricante Pedro&#x27;s - Light Wet Lube",
+      "descripcion": "El Lubricante Pedro's - Light Wet Lube es la elección ideal para ciclistas de montaña exigentes. Con protección superior contra el desgaste y una fórmula única que aísla la suciedad, este lubricante garantiza eficiencia y durabilidad en condiciones extremas. ¡Lleva tu experiencia de ciclismo al siguiente nivel con Valkiria Bikes! ¡Hazte con el tuyo ahora!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-pedros-wet-lube-0790983201043/1739066195902-FOwmM",
+      "nombre": "Lubricante Pedro&#x27;s - Wet Lube",
+      "descripcion": "El Lubricante Pedro's - Wet Lube es la elección perfecta para tus aventuras en bicicleta de montaña. Con protección superior contra el desgaste y eficiencia en condiciones extremas, este lubricante garantiza la durabilidad de tu cadena. ¡Asegura un rendimiento óptimo en cada kilómetro recorrido! ¡Hazte con él ahora en Valkiria Bikes!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lubricante-silca-super-secret-ceramico-0810093160921/1739066013297-FOwmM",
+      "nombre": "Lubricante Silca Super Secret Cerámico",
+      "descripcion": "El Lubricante Silca Super Secret Cerámico de Valkiria Bikes es la clave para un rendimiento óptimo de tu bicicleta. Con su fórmula innovadora a base de cera y di-sulfuro de tungsteno, mantendrás tu cadena limpia, silenciosa y duradera. Este lubricante de alta tecnología desplaza la suciedad, reduce la fricción y es fácil de aplicar. ¡Potencia cada pedalada con Valkiria Bikes! ¡Hazte con el Lubricante Silca ahora y disfruta de un ciclismo sin preocupaciones!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-look-x-track-3611720144997/1739136762092-FOwmM",
+      "nombre": "Calas Look X Track",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-para-look-generico/1758671478306-FOwmM",
+      "nombre": "Calas para  look genérico",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-amarilla/1754697372658-FOwmM",
+      "nombre": "Calas Shimano AMARILLA",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh10-4524667073413/1739141761484-FOwmM",
+      "nombre": "Calas Shimano SH10",
+      "descripcion": "shimano industria  china\nrojas - 0° grados de flotacion \nideal para spriters, atletas prifesionales\nse requiere que conozcas de forma precisa la posicion optima de tus calas."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh11-0689228072978/1739141744057-FOwmM",
+      "nombre": "Calas Shimano SH11",
+      "descripcion": "Calas amarillas - 6 grados de flotacion \nlas mas populares \nya que permite movimiento libre y menos tencion en las articulaciones."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh12-0192790646886/1739141819348-FOwmM",
+      "nombre": "Calas Shimano SH12",
+      "descripcion": "SHIMANO ORIGINAL \n calas azules 2 grados de flotacion \npunto medio entre las amarillas y rojas"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-shimano-sh56-4524667075240/1739136690799-FOwmM",
+      "nombre": "Calas Shimano SH-56",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/calas-time-10-y-1317/1769637776617-FOwmM",
+      "nombre": "Calas TIME  10° y 13°-17°",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/pedal-de-aluminio-clasico/1739134558530-FOwmM",
+      "nombre": "Pedal de Aluminio clásico",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/pedal-look-ruta-keo-classic-3/1756419752012-FOwmM",
+      "nombre": "Pedal look ruta keo Classic 3",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/adaptador-de-valvula-francesa-a-valvula-americana/1740429160805-FOwmM",
+      "nombre": "Adaptador de válvula francesa a válvula americana",
+      "descripcion": "ideal por si no tienes inflador para valvula francesa\ntambien muy practico para llevarlo a tus rutas y usarlo en caso de emergencia"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cable-para-rodillo-de-rulos/1739142972763-FOwmM",
+      "nombre": "Cable para rodillo de rulos",
+      "descripcion": "cable de repuesto para rodillo"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-de-seguridad/1739230425184-FOwmM",
+      "nombre": "Cadena de seguridad",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/desmonta-llantas/1754599880618-FOwmM",
+      "nombre": "Desmonta llantas",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/desmonta-llantas-rockbros/1754599938469-FOwmM",
+      "nombre": "Desmonta llantas rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-cadena/1741119489208-FOwmM",
+      "nombre": "Extractor de cadena",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-quicklink/1741119385144-FOwmM",
+      "nombre": "Extractor de QuickLink",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/extractor-de-valvular-toopre/1741119442411-FOwmM",
+      "nombre": "Extractor de valvular Toopre",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/funda-risk-para-cableado-interno/1739142899850-FOwmM",
+      "nombre": "Funda RISK para Cableado Interno",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/guiador-chicotillo-interno/1754350975983-FOwmM",
+      "nombre": "Guiador chicotillo interno",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar/1739319260839-FOwmM",
+      "nombre": "Cinta de manillar",
+      "descripcion": "color  negro"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-odi/1739319058493-FOwmM",
+      "nombre": "Cinta de manillar ODI",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-rockbros/1754696587120-FOwmM",
+      "nombre": "Cinta de manillar ROCKBROS",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cinta-de-manillar-supacaz/1739319068500-FOwmM",
+      "nombre": "Cinta de manillar Supacaz",
+      "descripcion": "linea de PETER SAGAN\noriginal"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cintas-replica-supacaz/1758670341166-FOwmM",
+      "nombre": "Cintas replica supacaz",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/funda-de-silicona-para-shimano-r7000r8000/1739319530848-FOwmM",
+      "nombre": "Funda de silicona para Shimano R7000/R8000",
+      "descripcion": "Para modelo rt7000 rt8000"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/manillar-de-aluminio-wake-mtb/1739744843464-FOwmM",
+      "nombre": "Manillar de Aluminio WAKE MTB",
+      "descripcion": "manubrio de aluminio"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/manillar-de-carbono-race-faceec90/1739745488329-FOwmM",
+      "nombre": "Manillar de Carbono RACE FACE/EC90",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/manubri-carbono-race-face-next/1740422584197-FOwmM",
+      "nombre": "MANUBRI CARBONO RACE FACE NEXT",
+      "descripcion": "El Manubri de Carbono Race Face Next es la elección ideal para los amantes del ciclismo exigentes. Con un diámetro de 3.18 cm, altura de 0.2 cm, y largo de 7 cm, este manillar de fibra de carbono garantiza durabilidad y rendimiento óptimos. Disponible en elegante color negro brillante, este producto es una apuesta segura para mejorar tu experiencia en cada ruta. ¡Hazte con el tuyo y eleva tu nivel de ciclismo hoy mismo!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/puno-odi-pro/1763682048513-FOwmM",
+      "nombre": "PUÑO ODI PRO",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-10v-toopre/1755043306615-FOwmM",
+      "nombre": "Cadena 10v TOOPRE",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-11v-kmc-x11el/1755042191796-FOwmM",
+      "nombre": "Cadena 11v KMC x11EL",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-11v-sram/1755042012767-FOwmM",
+      "nombre": "Cadena 11v SRAM",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-12v-shimano-deore-6100/1762813199364-FOwmM",
+      "nombre": "Cadena 12v Shimano deore 6100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-8v-toopre/1755043415611-FOwmM",
+      "nombre": "Cadena 8v TOOPRE",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-9v-toopre/1755043370071-FOwmM",
+      "nombre": "Cadena 9V TOOPRE",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-de-9v-shimano/1755041844377-FOwmM",
+      "nombre": "Cadena de 9v Shimano",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-12v-negro/1755042244708-FOwmM",
+      "nombre": "Cadena kmc 12v negro",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-hl1-wide-bmx/1739750934905-FOwmM",
+      "nombre": "Cadena KMC HL1 Wide - Bmx",
+      "descripcion": "medio eslabon"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/cadena-kmc-x10-light-gold/1739751070599-FOwmM",
+      "nombre": "Cadena KMC X10 Light Gold",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-11v-shimano-105/1756409187903-FOwmM",
+      "nombre": "Caja 11v Shimano 105",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-12v-shimano-deore/1756411528737-FOwmM",
+      "nombre": "Caja 12v Shimano deore",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-8v-generico/1756164320188-FOwmM",
+      "nombre": "Caja 7v 8v genérico",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-antiguo/1756164132748-FOwmM",
+      "nombre": "Caja 7v antiguo",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-7v-shimano-tourney/1755216750518-FOwmM",
+      "nombre": "Caja 7v Shimano tourney",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-8v-shimano-altus/1756164205293-FOwmM",
+      "nombre": "Caja 8v Shimano Altus",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-9v-shimano-altus/1756164247968-FOwmM",
+      "nombre": "Caja 9v Shimano Altus",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-11v-deore-5100/1755033514109-FOwmM",
+      "nombre": "Caja shimano 11v deore  5100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-deore-10v-5120/1754349733552-FOwmM",
+      "nombre": "Caja shimano deore 10v 5120",
+      "descripcion": "Modelo rd-m5120"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-slx-7100/1755033263342-FOwmM",
+      "nombre": "Caja shimano SLX 7100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-de-tubo-de-sillin/1754956991933-FOwmM",
+      "nombre": "Ajuste de tija ( de tubo de sillín)",
+      "descripcion": "Medias 31.8"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-de-tubo-de-sillin/1754956886863-FOwmM",
+      "nombre": "Ajuste de tija ( de tubo de sillín)",
+      "descripcion": "Medida 34.9\n31.8"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-tubo-de-sillin/1754956826013-FOwmM",
+      "nombre": "Ajuste de tija (tubo de sillín)",
+      "descripcion": "Para tija delgada"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/ajuste-de-tija-tubo-de-sillin/1754956765288-FOwmM",
+      "nombre": "Ajuste de tija (tubo de sillín)",
+      "descripcion": "Medidas 34.9\n31.8"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/funda-de-gel-para-sillin/1739144489151-FOwmM",
+      "nombre": "Funda de gel para sillin",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sillin-con-diseno/1754766402577-FOwmM",
+      "nombre": "Sillin con diseño",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sillin-con-gel/1759000993922-FOwmM",
+      "nombre": "Sillin con gel",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sillin-ec90-ergo/1739143765797-FOwmM",
+      "nombre": "Sillin EC90 Ergo",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sillin-ec90-power-comp/1739144348552-FOwmM",
+      "nombre": "Sillin EC90 Power Comp",
+      "descripcion": "Utilice objetos: Unisex\nEstilo: Asiento delantero Ma\nMaterial: cuero\nFunción: negro\nTamaño: 240 mm-143 mm\nPeso: alrededor de 210 g\nDiseño de ranura ergonómico, modelos de entrenamiento Asiento de carretera,\nCarretera plana, sprint, carretera de subida y bajada, ¡totalmente resistente universal!\n¡El acolchado de nivel 2 te brinda suficiente comodidad!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/sillin-pequeno/1754766523947-FOwmM",
+      "nombre": "Sillín pequeño",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/aceite-mineral-hidraulico/1754957359991-FOwmM",
+      "nombre": "Aceite mineral hidráulico",
+      "descripcion": "Aceite mineral 500 ml"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/adaptador-de-discos-de-center-look-a-pernos/1754777316253-FOwmM",
+      "nombre": "Adaptador de discos de Center look a pernos",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/adaptador-para-macero-boost-de-3-mm/1754777476888-FOwmM",
+      "nombre": "Adaptador para macero Boost de 3 mm",
+      "descripcion": "Delantero 100/110\nTrasero 142/148"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-caja-economico/1754599227044-FOwmM",
+      "nombre": "Chicotillo de caja económico",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-caja-sram/1754599033324-FOwmM",
+      "nombre": "Chicotillo de caja SRAM",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-mtb-economico/1754599166625-FOwmM",
+      "nombre": "Chicotillo de freno mtb económico",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-para-ruta/1754598842942-FOwmM",
+      "nombre": "Chicotillo de freno para ruta",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/chicotillo-de-freno-ruta-montana/1754957225236-FOwmM",
+      "nombre": "Chicotillo de freno RUTA - MONTAÑA",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/disco-de-freno-140mm/1770853552290-FOwmM",
+      "nombre": "Disco de freno 140mm",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/disco-de-freno-1800mm-center-look/1770916821524-FOwmM",
+      "nombre": "Disco de freno 1800mm Center look",
+      "descripcion": "Shimano  Rt-MT800 \nSHIMANO XT \n180MM"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/boquilla-para-c02/1754777599744-FOwmM",
+      "nombre": "Boquilla para C02",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camel-back-mochila/1740431757635-FOwmM",
+      "nombre": "camel back/ mochila",
+      "descripcion": "La mochila Camel Back de Valkiria Bikes, con capacidad de 2 litros, es el complemento ideal para tus aventuras en bicicleta. Diseñada para brindarte comodidad y funcionalidad, esta mochila te permite llevar contigo todo lo necesario de forma práctica y segura. ¡Haz tuya esta mochila y disfruta al máximo de tus paseos en bici! ¡No te quedes sin la tuya!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/camel-back-resistente/1740432222388-FOwmM",
+      "nombre": "camel back resistente",
+      "descripcion": "En Valkiria Bikes te presenta el \"camel back resistente\", un accesorio de ciclismo con capacidad de dos litros. Fabricado con una tela resistente y de mayor grosor para mayor durabilidad y un acabado superior. ¡Hazlo tuyo y lleva contigo la hidratación que necesitas en tus aventuras! ¡Descúbrelo ya en Valkiria Bikes!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/espaciadores-enlee/1754777759461-FOwmM",
+      "nombre": "Espaciadores Enlee",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-para-celular/1740431181010-FOwmM",
+      "nombre": "estuche para celular",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/funda-para-horquilla-vg-sports/1739147602607-FOwmM",
+      "nombre": "Funda para horquilla VG Sports",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-delantero-enlee/1739147516574-FOwmM",
+      "nombre": "Guardabarro Delantero Enlee",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-trasero/1739147415531-FOwmM",
+      "nombre": "Guardabarro trasero",
+      "descripcion": "El \"Guardabarro trasero\" de Valkiria Bikes es tu aliado perfecto en días lluviosos. Protege tu bicicleta con estilo y calidad. ¡Hazte con el tuyo ahora y pedalea con confianza bajo cualquier clima!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/guardabarro-trasero-enlee/1739147430269-FOwmM",
+      "nombre": "Guardabarro trasero Enlee",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/guardabarros-rockbros/1769544898378-FOwmM",
+      "nombre": "Guardabarros rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/barras-energybar-8437004752055/1753995318186-FOwmM",
+      "nombre": "Barras Energybar",
+      "descripcion": "Una barrita energética que combina carbohidratos con una mezcla de vitaminas y minerales esenciales. Contiene vitamina C y varias del complejo B, incluyendo B1, B2, B3, B6, B9 y B12, así como ácido pantoténico. \n\nCon 13.3 gramos de carbohidratos, esta barrita está enriquecida con almendra y chocolate blanco, ofreciendo un aporte nutritivo ideal para mantener la energía durante el día."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/barras-integrales/1740262475991-FOwmM",
+      "nombre": "barras integrales",
+      "descripcion": "Las nuevas \"barras integrales\" de Valkiria Bikes son el aliado perfecto para tu entrenamiento. Con sabores intensos a chocolate y papaya, estas barras a base de carbohidratos te brindarán la energía necesaria para lograr tu mejor rendimiento. ¡Hazte con ellas y potencia tu entrenamiento al máximo! ¡Valkiria Bikes, tu compañero de ciclismo ideal!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/creatina-monohidrata-bodyaction/1769543493279-FOwmM",
+      "nombre": "Creatina monohidrata BODYACTION",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/creatina-monohidratada/1754343366840-FOwmM",
+      "nombre": "Creatina monohidratada",
+      "descripcion": "La creatina monohidratada es un suplemento diseñado para mejorar el rendimiento físico en ejercicios de alta intensidad y corta duración. \n\nEste compuesto ayuda a liberar energía, aumentando la fuerza y la potencia máxima. Además, contribuye a la recuperación y al crecimiento de la masa muscular, lo que la convierte en una opción ideal para quienes buscan potenciar su entrenamiento."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/dextrosa/1754343173710-FOwmM",
+      "nombre": "Dextrosa",
+      "descripcion": "La dextrosa es un suplemento deportivo que actúa como fuente de energía inmediata, gracias a su alto índice glucémico y rápida absorción. Es ideal para atletas y personas que practican fitness, ya que permite reponer rápidamente los niveles de energía durante o después del ejercicio. \n\nEste suplemento es una opción efectiva para quienes buscan mejorar su rendimiento y acelerar la recuperación tras actividades físicas intensas."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/essencial9-aminoacidos/1758925396531-FOwmM",
+      "nombre": "Essencial-9 aminoácidos",
+      "descripcion": "Composición: Contiene los nueve aminoácidos esenciales (EAAs), incluyendo 7,2g de BCAAs por porción, además de vitamina C y vitaminas del complejo B. \nFunción: Ayuda en la recuperación y fortalecimiento muscular, así como en el desempeño y la recuperación optimizada. \nSabor: El envase de la imagen es sabor Guaraná con Açaí, aunque también está disponible en otros sabores como Limón & Açaí o Limonada Suiza. \nPresentación: Se presenta en polvo en un pote de 225g. \nUso: Los aminoácidos esenciales son cruciales para el cuerpo, ya que no puede producirlos y deben obtenerse a través de la dieta o suplementos. Se recomienda su consumo después del entrenamiento o con una comida."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-black-con-cafeina-600gr/1758924857297-FOwmM",
+      "nombre": "Gel RECARB black con cafeína 600gr",
+      "descripcion": "Composición: Contiene una combinación de diferentes carbohidratos para energía inmediata y prolongada (maltodextrina, fructosa, palatinosa y waxy maize), así como electrolitos para la hidratación y recuperación. La versión \"Black\" también incluye ingredientes como taurina, cafeína y beta alanina, que contribuyen al aumento del rendimiento y la reducción de la fatiga muscular.\nPresentación: Se presenta en un formato \"squeeze\" de 600g, lo que equivale a aproximadamente 20 dosis individuales. También existen presentaciones en sobres individuales.\nBeneficios: Busca aumentar el rendimiento, proporcionar energía rápida y prolongada, reponer electrolitos y reducir la fatiga durante los entrenamientos y competiciones.\nUso: Se recomienda consumir una dosis antes o durante el entrenamiento, y es importante acompañar su consumo con agua debido a su consistencia.\nConsideraciones: No contiene gluten, pero sí contiene fructosa y glucosa, por lo que los diabéticos deben consultar a un profesional de la salud antes de usarlo. No está indicado para niños, embarazadas, lactantes o personas con enfermedades sin orientación médica."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-black-con-cafeina-7898512720799/1753587098840-FOwmM",
+      "nombre": "Gel Recarb Black con cafeína",
+      "descripcion": "Este gel contiene cafeína, beta alanina y taurina, ingredientes que contribuyen a aumentar la energía y mejorar el rendimiento físico. Es ideal para quienes buscan un impulso durante actividades deportivas o entrenamientos intensos. \n\nSu formulación está diseñada para proporcionar una rápida absorción, ayudando a mantener la energía y la concentración. Perfecto para llevar en entrenamientos o competencias.\nCaja de 10 unidades a 170 bs"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/gel-recarb-sin-cafeina-600gr/1758924956521-FOwmM",
+      "nombre": "Gel Recarb sin cafeína 600gr",
+      "descripcion": "Función: Proporciona energía rápida durante actividades físicas prolongadas, ayudando a reponer carbohidratos y electrolitos. \nComposición: Contiene una combinación de carbohidratos (maltodextrina, fructosa, palatinosa, maíz ceroso), proteínas (proteína de arroz concentrada) y vitaminas (A, B, C, D, E). \nBeneficios: Mejora el rendimiento, reduce la fatiga y contribuye a la hidratación. \nVariantes: Existen versiones como el Recarb Energy Gel Black que incluye taurina, cafeína y beta alanina para un impulso adicional en actividades de alta intensidad. \nPresentación: Se muestra en un envase de 600g y está etiquetado para 20 dosis."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/geles-energel-caja-de-10u-7897104907433/1739231778883-FOwmM",
+      "nombre": "Geles Energel, Caja de 10u.",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-biplato-3828-mod-6000/1756841370879-FOwmM",
+      "nombre": "Biela BIPLATO 38-28 mod 6000",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-green-twister-104-bcd/1739747645444-FOwmM",
+      "nombre": "Biela Green Twister 104 BCD",
+      "descripcion": "biela integrada de 170mm \nbcd 104 \npeso: 854 + botom"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-izquierda/1754602100927-FOwmM",
+      "nombre": "Biela izquierda",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-racework-gpx/1758999736108-FOwmM",
+      "nombre": "Biela racework GPX",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-racework-xt-eje-integrado/1758836367308-FOwmM",
+      "nombre": "Biela racework XT  eje integrado",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-105-r7100-5034-12v/1739746387577-FOwmM",
+      "nombre": "Biela Shimano 105 R7100 50-34 12v",
+      "descripcion": "170mm"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-deore-6100/1762815216608-FOwmM",
+      "nombre": "Biela Shimano deore 6100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-deore-m5100/1755383682158-FOwmM",
+      "nombre": "Biela Shimano deore M5100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-shimano-slx-7100/1758568275021-FOwmM",
+      "nombre": "Biela Shimano SLX 7100",
+      "descripcion": "Biela con hoja"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/biela-triplato-prowhell/1755383015176-FOwmM",
+      "nombre": "Biela triplato prowhell",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-deore-m4100-10v/1739744285310-FOwmM",
+      "nombre": "Grupo Shimano Deore M4100 10v",
+      "descripcion": "cadena KMC silver/black\ncaja shimano deore M5120\nshifter shimano deore M4100\nbiela shimano deore M5100\npiñon shimano deore M4100 (11-42  11-46)"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-deore-m5100-11v/1739744321010-FOwmM",
+      "nombre": "Grupo Shimano Deore M5100 11v",
+      "descripcion": "cadena Shimano deore \nbotom MT501\ncaja shimano deore M5100\nshifter shimano deore M5100\npiñon shimano deore M5100\nbiela shimano deore M5100"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/grupo-shimano-slx-m7100-12v/1739744352756-FOwmM",
+      "nombre": "Grupo Shimano SLX M7100 12v",
+      "descripcion": "cadena SLX \ncaja shimano SLX m7100\npiñon microspline shimano SLX 7100\nshfiter shimano slx M7100 \nbotom XT \nBiela shimano SLX 7100"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lentes-economicos/1755028662488-FOwmM",
+      "nombre": "Lentes económicos",
+      "descripcion": "Lentes bonitos y baratos 😉😎😎😎"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lentes-economicos-amarillos-y-transparentes/1756337501396-FOwmM",
+      "nombre": "Lentes económicos amarillos y transparentes",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lentes-foto-cromaticos-scycn/1758665752922-FOwmM",
+      "nombre": "Lentes foto cromáticos SCYCN",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lentes-para-ninos/1758635972761-FOwmM",
+      "nombre": "Lentes para niños",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botella-para-proteina/1758654900484-FOwmM",
+      "nombre": "Botella para proteína",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botellon-fly/1740432371470-FOwmM",
+      "nombre": "botellón FLY",
+      "descripcion": "en color rojo, amarrillo , negro , plomo , blanco , verde suave ,azul , de 500ml \nel mas ligero del mercado\nusado por ciclistas de world tour"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botellon-rock-bros/1755727247373-FOwmM",
+      "nombre": "Botellón rock bros",
+      "descripcion": "Botellon bros de  de 550 ML"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botellones-termicos-elite/1758654806890-FOwmM",
+      "nombre": "Botellones térmicos élite",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botellon-750ml-rockbros/1758755807568-FOwmM",
+      "nombre": "Botellón 750ml rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/botellon-fox-750-ml/1753926518264-FOwmM",
+      "nombre": "Botellón Fox 750 ml",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/porta-botellon/1754006083711-FOwmM",
+      "nombre": "Porta botellón",
+      "descripcion": "Porta botellón lateral \nRock bros \nMaterial de aluminio"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/porta-botellon-elite/1755728343297-FOwmM",
+      "nombre": "Porta botellón elite",
+      "descripcion": "Su diseño permite una fácil inserción y extracción del bidón, y cuenta con un sistema autoajustable que se adapta al diámetro del mismo para asegurar la retención y evitar vibraciones. \nEstá fabricado con poliamida reforzada, lo que le otorga durabilidad y un agarre firme incluso en terrenos irregulares o descensos a alta velocidad. \nEs utilizado por equipos profesionales de ciclismo y ha sido probado en carretera por ciclistas de élite."
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon/1754007375333-FOwmM",
+      "nombre": "Portabotellon",
+      "descripcion": "Portabotellon reforzado"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon/1754006374590-FOwmM",
+      "nombre": "Portabotellon",
+      "descripcion": "Portabotellon rockbros \nMaterial de plástico reforzado"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon/1754006600492-FOwmM",
+      "nombre": "Portabotellon",
+      "descripcion": "Portabotellon de aluminio"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-aluminio/1754168238417-FOwmM",
+      "nombre": "Portabotellon aluminio",
+      "descripcion": "Portabotellon de aluminio"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-elite-ala/1755728842379-FOwmM",
+      "nombre": "Portabotellón elite ala",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-elite-cannibal-xc/1755729408864-FOwmM",
+      "nombre": "Portabotellon élite canníbal xc",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-lateral-rockbros/1758583087003-FOwmM",
+      "nombre": "Portabotellon lateral rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/portabotellon-odi/1754168544476-FOwmM",
+      "nombre": "Portabotellon ODI",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/bicicleta-cicletrak/1742583318535-FOwmM",
+      "nombre": "bicicleta cicletrak",
+      "descripcion": "Talla M \nSuspención de aire 120 \n9 velocidades monoplato \nShimano Altus \nFrenos hidráulicos TEKTRO \nMaceros a rodamiento sellado"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/bicicleta-cycletrak/1742583161394-FOwmM",
+      "nombre": "bicicleta cycletrak",
+      "descripcion": "Talla M \nSuspención de aire 120 \n9 velocidades monoplato \nShimano Altus \nFrenos hidráulicos TEKTRO \nMaceros a rodamiento sellado"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-grande/1754170228474-FOwmM",
+      "nombre": "Estuche grande",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-impermeable/1758742988092-FOwmM",
+      "nombre": "Estuche impermeable",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-pequeno/1754170037119-FOwmM",
+      "nombre": "Estuche pequeño",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-portacelular-6920636718008/1754170380655-FOwmM",
+      "nombre": "Estuche portacelular",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/estuche-trasero-rockbros/1758582197155-FOwmM",
+      "nombre": "Estuche trasero rockbros",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/pata-de-apoyo/1758672383157-FOwmM",
+      "nombre": "Pata de apoyo",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/soporte-para-bicicleta/1754598444539-FOwmM",
+      "nombre": "Soporte para bicicleta",
+      "descripcion": "Soporte para pared"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/parqueo-para-bicicleta/1755214601111-FOwmM",
+      "nombre": "Parqueo para bicicleta",
+      "descripcion": "Material de aluminio \nHasta aro 29"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/caja-shimano-xt-12v-8100/1755038228801-FOwmM",
+      "nombre": "Caja shimano XT 12v 8100",
+      "descripcion": ""
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/lentes-okley/1740430722493-FOwmM",
+      "nombre": "lentes okley",
+      "descripcion": "Los lentes Oakley para ciclismo en Valkiria Bikes ofrecen protección superior contra los rayos UV y resplandores al aire libre. Su tecnología avanzada garantiza visión clara y sin distorsiones, incluso en las rutas más exigentes. Con variedad de armazones y colores, encontrarás el estilo perfecto para tus necesidades. Experimenta el rendimiento y estilo que Oakley sabe que buscas. ¡Hazte con tus lentes de sol para ciclismo hoy mismo y nota la diferencia!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/rodillo-de-3/1740431544714-FOwmM",
+      "nombre": "rodillo  de 3",
+      "descripcion": "El \"Rodillo de 3\" de Valkiria Bikes es tu compañero ideal para pedalear en casa. Con este accesorio, podrás mantenerte activo y en forma sin salir de tu hogar. ¡Aprovecha esta oportunidad y lleva tu entrenamiento a otro nivel! ¡Hazte con el tuyo ahora!"
+    },
+    {
+      "url": "https://valkiriabikes.kyte.site/en/p/zapatillas/1770411024238-FOwmM",
+      "nombre": "Zapatillas",
+      "descripcion": ""
+    }
+  ]
+}

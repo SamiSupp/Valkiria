@@ -17,7 +17,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Cadenciómetro igsport. Producto de la categoría Ciclocomputadores, marca iGS Sport. Disponibilidad: 1 unidades."
+    "descripcion": "Cadenciómetro igsport. Producto de la categoría Ciclocomputadores, marca iGS Sport. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "ciclocomputador-igpsport-bsc-300t",
@@ -37,7 +38,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Ciclocomputador IGPSPORT BSC 300T. Producto de la categoría Ciclocomputadores, marca IGPSPORT. Disponibilidad: 1 unidades."
+    "descripcion": "Es un ciclocomputador GPS con pantalla táctil a color de 2,4 pulgadas. \nOfrece navegación con mapas sin conexión y advertencia de desvío. \nEs compatible con una amplia gama de datos, incluyendo los de bicicletas eléctricas y Di2. \nCuenta con resistencia al agua IPX7 y conectividad Bluetooth y ANT+. \nSu diseño es ultradelgado y ligero, con un peso de solo 67g.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ciclocomputador-igpsport-bsc100",
@@ -57,7 +59,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Ciclocomputador IGPSPORT BSC100. Producto de la categoría Ciclocomputadores, marca IGPSPORT. Disponibilidad: 1 unidades."
+    "descripcion": "Características principales:\nEste dispositivo registra y muestra datos de ciclismo en tiempo real, como velocidad, distancia, potencia, cadencia y frecuencia cardíaca.\nConectividad:\nEs inalámbrico, compatible con BLE5.0/ANT+, y puede conectarse con varios sensores como los de velocidad, cadencia, frecuencia cardíaca y medidores de potencia.\nFunciones inteligentes:\nIncluye retroiluminación automática, pausa/suspensión/vuelta automáticas y funciones de advertencia.\nDuración de la batería y almacenamiento:\nOfrece hasta 40 horas de duración de batería y 250 horas de almacenamiento de datos.\nResistencia y diseño:\nEs resistente al agua con certificación IPX7 y tiene un diseño compacto y ligero.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ciclocomputador-igpsport-bsc200",
@@ -77,7 +80,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Ciclocomputador IGPSPORT BSC200. Producto de la categoría Ciclocomputadores, marca IGPSPORT. Disponibilidad: 4 unidades."
+    "descripcion": "Funcionalidades de GPS:\nOfrece navegación precisa y es compatible con múltiples sistemas de posicionamiento global (GPS, GLONASS, BeiDou, GALILEO y QZSS) para una ubicación más rápida y precisa. \nPantalla y visualización de datos:\nCuenta con una pantalla de 2.5 pulgadas que muestra datos completos de ciclismo como velocidad, distancia, rumbo y trayectoria en tiempo real. \nConectividad y sincronización:\nSoporta Bluetooth y ANT+ para la conexión con sensores (velocidad, cadencia, frecuencia cardíaca, potenciómetros) y permite la sincronización de datos con la aplicación iGPSPORT para análisis. \nBatería y diseño:\nPosee una batería de larga duración (hasta 30 horas) y un diseño robusto e impermeable (IPX7), ideal para uso en exteriores. \nPlanificación de rutas:\nEs compatible con diversos métodos de planificación de rutas y permite la importación rápida de archivos de ruta (GPX/TCX/FIT/CNX).",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ciclocomputador-igpsport-bsc300",
@@ -97,7 +101,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Ciclocomputador IGPSPORT BSC300. Producto de la categoría Ciclocomputadores, marca IGPSPORT. Disponibilidad: 3 unidades."
+    "descripcion": "Es un ciclocomputador GPS de gama media con pantalla a color de 2.4 pulgadas. \nOfrece navegación con mapas y navegación paso a paso, incluyendo mapas globales sin conexión. \nEs compatible con sensores ANT+ y Bluetooth como medidores de potencia, cadencia y frecuencia cardíaca. \nCuenta con una autonomía de batería de hasta 20 horas y se carga mediante USB tipo C. \nSe puede sincronizar con la aplicación iGPSPORT para análisis de datos y compartir con plataformas como Strava o Komoot.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "sensor-de-cadencia",
@@ -117,7 +122,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sensor de cadencia. Producto de la categoría Ciclocomputadores, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Sensor de cadencia. Producto de la categoría Ciclocomputadores, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "sensor-de-frecuencia-cardiaca",
@@ -137,7 +143,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Sensor de frecuencia cardíaca. Producto de la categoría Ciclocomputadores, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Es un monitor de frecuencia cardíaca de doble banda con conectividad ANT+ y Bluetooth, compatible con ciclocomputadores como iGPSPORT, Garmin, Polar, Wahoo, Bryton, Sigma, y también con smartphones o tablets a través de aplicaciones de entrenamiento compatibles. \nUtiliza tecnología de medición de electrocardiograma avanzada para proporcionar datos precisos de frecuencia cardíaca. \nEs resistente al agua con certificación IPX7, lo que lo hace adecuado para actividades como natación. \nTiene una batería de larga duración (CR2032) que puede durar hasta 1200 horas de uso. \nLa correa textil es cómoda y ajustable para diferentes tamaños de pecho.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "soporte-de-ciclocomputador",
@@ -157,7 +164,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Soporte de ciclocomputador. Producto de la categoría Ciclocomputadores, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Material de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "soporte-de-ciclocomputador-2",
@@ -177,7 +185,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Soporte de ciclocomputador. Producto de la categoría Ciclocomputadores, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Material de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "soporte-frontal-igsport-m80",
@@ -197,7 +206,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Soporte frontal igsport M80. Producto de la categoría Ciclocomputadores, marca iGS Sport. Disponibilidad: 1 unidades."
+    "descripcion": "Soporte frontal igsport M80. Producto de la categoría Ciclocomputadores, marca iGS Sport. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-de-piso-giyo",
@@ -217,7 +227,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador de piso Giyo. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 2 unidades."
+    "descripcion": "Inflador de piso Giyo. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-electronico-rockbros",
@@ -237,7 +248,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador electrónico ROCKBROS. Producto de la categoría Infladores, marca Rockbros. Disponibilidad: 3 unidades."
+    "descripcion": "Inflador electrónico ROCKBROS. Producto de la categoría Infladores, marca Rockbros. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-electronico-rockbros-con-medidor-digital",
@@ -257,7 +269,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador electrónico ROCKBROS con medidor digital. Producto de la categoría Infladores, marca Rockbros. Disponibilidad: 2 unidades."
+    "descripcion": "Inflador electrónico ROCKBROS con medidor digital. Producto de la categoría Infladores, marca Rockbros. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-giyo",
@@ -277,7 +290,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador GIYO. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 3 unidades."
+    "descripcion": "Inflador giyo con medidor y doble boquilla",
+    "tieneDescripcionReal": true
   },
   {
     "id": "inflador-giyo-air-compact",
@@ -297,7 +311,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador Giyo Air Compact. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 4 unidades."
+    "descripcion": "Inflador Giyo Air Compact. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-giyo-airtank",
@@ -317,7 +332,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador Giyo AirTank. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 1 unidades."
+    "descripcion": "Inflador Giyo AirTank. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-giyo-mediano",
@@ -337,7 +353,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador Giyo mediano. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 3 unidades."
+    "descripcion": "Inflador Giyo mediano. Producto de la categoría Infladores, marca Giyo. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-pequeno",
@@ -357,7 +374,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador pequeño. Producto de la categoría Infladores, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Inflador pequeño. Producto de la categoría Infladores, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "inflador-pequeno-con-manguera",
@@ -377,7 +395,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Inflador pequeño con manguera. Producto de la categoría Infladores, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Inflador pequeño con manguera. Producto de la categoría Infladores, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "radios",
@@ -397,7 +416,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Radios. Producto de la categoría Aros, marca Valkiria. Disponibilidad: 1590 unidades."
+    "descripcion": "Docena 18 bs \nMedidas 29, 28, 26, 25.5 , 24",
+    "tieneDescripcionReal": true
   },
   {
     "id": "radios-acero-inoxidable",
@@ -417,7 +437,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Radios acero inoxidable. Producto de la categoría Aros, marca Valkiria. Disponibilidad: 80 unidades."
+    "descripcion": "Docena 40 bs",
+    "tieneDescripcionReal": true
   },
   {
     "id": "horquilla-aluminio-cube",
@@ -437,7 +458,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Horquilla aluminio cube. Producto de la categoría Horquilla, marca Cube. Disponibilidad: 2 unidades."
+    "descripcion": "Material de aluminio \nAro 29\nTubo recto \nAjuste normal",
+    "tieneDescripcionReal": true
   },
   {
     "id": "horquilla-de-fibra-de-carbono-tosek-no-boost",
@@ -457,7 +479,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Horquilla de fibra de carbono TOSEK no boost. Producto de la categoría Horquilla, marca Tosek. Disponibilidad: 1 unidades."
+    "descripcion": "Marca tosek \nEje pasante \nNo Boost \nCónico",
+    "tieneDescripcionReal": true
   },
   {
     "id": "horquilla-fibra-de-carbono-tosek",
@@ -477,7 +500,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Horquilla fibra de carbono TOSEK. Producto de la categoría Horquilla, marca Tosek. Disponibilidad: 1 unidades."
+    "descripcion": "Fibra de carbono \nAjuste rápido \nTuvo recto \nMarca tosek",
+    "tieneDescripcionReal": true
   },
   {
     "id": "juego-de-direccion-18-a-rodamiento",
@@ -497,7 +521,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Juego de dirección 1/8 a rodamiento. Producto de la categoría Horquilla, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Juego de dirección para horquilla recta \nA rodamiento \nMarca ZTTO",
+    "tieneDescripcionReal": true
   },
   {
     "id": "juego-de-direccion-conico",
@@ -517,7 +542,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Juego de dirección cónico. Producto de la categoría Horquilla, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Juego de dirección cónico para cuadro de carbono \nMás araña para carbono\nMarca ZTTO",
+    "tieneDescripcionReal": true
   },
   {
     "id": "juego-de-direccion-neco-18",
@@ -537,7 +563,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Juego de dirección neco 1/8. Producto de la categoría Horquilla, marca Neco. Disponibilidad: 2 unidades."
+    "descripcion": "Juego de dirección para horquilla recta \nA perdigón",
+    "tieneDescripcionReal": true
   },
   {
     "id": "repuesto-para-horquilla",
@@ -551,13 +578,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 4,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_repuesto.jpg?alt=media",
+    "img": "",
     "color": "#A06A3B",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/repuesto-para-horquilla",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Repuesto para horquilla. Producto de la categoría Horquilla, marca Valkiria. Disponibilidad: 4 unidades."
+    "descripcion": "Medidas 32-34-36",
+    "tieneDescripcionReal": true
   },
   {
     "id": "bocina-rock-bros",
@@ -571,13 +599,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 3,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_bocina.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/bocina-rock-bros",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Bocina rock bros. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Bocina rock bros. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "linterna-1000-lumines-rockbros",
@@ -591,13 +620,14 @@
     "enOferta": true,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna1000.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-1000-lumines-rockbros",
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Linterna 1000 lumines rockbros. Producto de la categoría Linternas, marca Rockbros. Disponibilidad: 1 unidades."
+    "descripcion": "Linterna 1000 lumines rockbros. Producto de la categoría Linternas, marca Rockbros. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "linterna-2-en-1",
@@ -611,13 +641,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 48,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna2en1.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-2-en-1",
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Linterna 2 en 1. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 48 unidades."
+    "descripcion": "La linterna 2 en 1 de Valkiria Bikes es tu compañera ideal para tus aventuras en bicicleta. Con una potente bocina integrada para tu seguridad, esta linterna recargable te brinda hasta 3 horas de luz constante. Su diseño ergonómico con agarrador de plástico la hace fácil de llevar contigo. ¡Ilumina tu camino y sé visible en todo momento con este accesorio imprescindible! ¡Hazte con la tuya ahora mismo!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "linterna-light-y-motion",
@@ -631,13 +662,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linternal_m.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-light-y-motion",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Linterna LIGHT y MOTION. Producto de la categoría Linternas, marca LIGHT. Disponibilidad: 1 unidades."
+    "descripcion": "Linterna delantera y trasera",
+    "tieneDescripcionReal": true
   },
   {
     "id": "linterna-luz-blanca-y-roja",
@@ -651,13 +683,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 3,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linternabr.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-luz-blanca-y-roja",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Linterna Luz Blanca y roja. Producto de la categoría Linternas, marca Luz. Disponibilidad: 3 unidades."
+    "descripcion": "Linterna Luz Blanca y roja. Producto de la categoría Linternas, marca Luz. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "linterna-rockbros-600-lumenes",
@@ -671,13 +704,14 @@
     "enOferta": true,
     "moneda": "BOB",
     "disponible": 4,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna600.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-600-lumenes",
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Linterna Rockbros 600 Lumenes. Producto de la categoría Linternas, marca Rockbros. Disponibilidad: 4 unidades."
+    "descripcion": "ROCKBROS Luces Bicicleta LED Recargable USB 600 Lúmenes, Faro Delantero Potente IPX6 Impermeable de Bicicleta con 5 Modos Fijos e Intermitentes Luz para Montaña y Carretera",
+    "tieneDescripcionReal": true
   },
   {
     "id": "linterna-rockbros-800-lumenes",
@@ -691,13 +725,14 @@
     "enOferta": true,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_linterna800.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-rockbros-800-lumenes",
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Linterna Rockbros 800 Lumenes. Producto de la categoría Linternas, marca Rockbros. Disponibilidad: 1 unidades."
+    "descripcion": "La linterna Rockbros 800 Lúmenes es la elección ideal para los amantes del ciclismo que buscan calidad y rendimiento. Con tecnología LED premium, este faro delantero garantiza una luminosidad superior en tus rutas. Ilumina tu camino con confianza y seguridad. ¡Hazte con la tuya ahora en Valkiria Bikes y disfruta de una experiencia de ciclismo única! ¡No dejes pasar esta oportunidad!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "linterna-seemeer300",
@@ -711,13 +746,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_seemeer.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-seemeer300",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Linterna SEEMEER300. Producto de la categoría Linternas, marca Seemee. Disponibilidad: 1 unidades."
+    "descripcion": "Linterna SEEMEER300. Producto de la categoría Linternas, marca Seemee. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "linterna-trasera",
@@ -731,13 +767,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_lintrasera.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-trasera",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Linterna trasera. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Linterna trasera. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "linterna-trasera-con-guineador",
@@ -751,13 +788,14 @@
     "enOferta": false,
     "moneda": "BOB",
     "disponible": 1,
-    "img": "https://images-cdn.kyte.site/v0/b/kyte-7c484.appspot.com/o/sKvorviz0aVsWFCfLregOGwjxqn1%2Fthumb_280_lintraserag.jpg?alt=media",
+    "img": "",
     "color": "#B89160",
     "urlOriginal": "https://valkiriabikes.kyte.site/en/p/linterna-trasera-con-guineador",
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Linterna trasera con guiñeador. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Linterna trasera con guiñeador. Producto de la categoría Linternas, marca Valkiria. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-tubeles-stans",
@@ -777,7 +815,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Cinta tubeles STANS. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades."
+    "descripcion": "Cinta tubeles STANS. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-tubeles-stans-21-mm",
@@ -797,7 +836,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cinta tubeles stans 21 mm. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades."
+    "descripcion": "Cinta tubeles stans 21 mm. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-tubeles-stans-25mm",
@@ -817,7 +857,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Cinta tubeles STANS 25mm. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades."
+    "descripcion": "Cinta tubeles STANS 25mm. Producto de la categoría Tubeles, marca Stan's NoTubes. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-tubeles-tessa",
@@ -837,7 +878,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cinta tubeles TESSA. Producto de la categoría Tubeles, marca Tessa. Disponibilidad: 2 unidades."
+    "descripcion": "Cinta tubeles TESSA. Producto de la categoría Tubeles, marca Tessa. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-tubeles-ztto",
@@ -857,7 +899,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Cinta tubeles ZTTO. Producto de la categoría Tubeles, marca ZTTO. Disponibilidad: 6 unidades."
+    "descripcion": "Cinta tubeles ZTTO. Producto de la categoría Tubeles, marca ZTTO. Disponibilidad: 6 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "extensor-de-valvula",
@@ -877,7 +920,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Extensor de válvula. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Extensor de válvula. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "extensor-de-valvula-desmontable",
@@ -897,7 +941,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Extensor de válvula desmontable. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Extensor de válvula desmontable. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "kit-de-parchado-tubeles",
@@ -917,7 +962,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Kit de parchado tubeles. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Kit de parchado tubeles. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "kit-de-parche",
@@ -937,7 +983,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Kit de parche. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Kit de parche. Producto de la categoría Tubeles, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "liquido-antipinchante-ltx",
@@ -957,7 +1004,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "LÍQUIDO ANTIPINCHANTE LTX. Producto de la categoría Tubeles, marca ANTIPINCHANTE. Disponibilidad: 5 unidades."
+    "descripcion": "LÍQUIDO ANTIPINCHANTE LTX. Producto de la categoría Tubeles, marca ANTIPINCHANTE. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-airbraker",
@@ -977,7 +1025,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Airbraker. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades."
+    "descripcion": "Casco Abus Airbraker. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-gamechanger",
@@ -997,7 +1046,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Gamechanger. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades."
+    "descripcion": "Casco Abus Gamechanger. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-macator",
@@ -1017,7 +1067,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Macator. Producto de la categoría Cascos, marca Abus. Disponibilidad: 4 unidades."
+    "descripcion": "Casco Abus Macator. Producto de la categoría Cascos, marca Abus. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-modrop",
@@ -1037,7 +1088,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Modrop. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades."
+    "descripcion": "Casco Abus Modrop. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-powerdome",
@@ -1057,7 +1109,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Powerdome. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades."
+    "descripcion": "Casco Abus Powerdome. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-stormchaser",
@@ -1077,7 +1130,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Stormchaser. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades."
+    "descripcion": "Casco Abus Stormchaser. Producto de la categoría Cascos, marca Abus. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-urban-i-30",
@@ -1097,7 +1151,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Urban-i 3.0. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades."
+    "descripcion": "Casco Abus Urban-i 3.0. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-viantor",
@@ -1117,7 +1172,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Viantor. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades."
+    "descripcion": "Casco Abus Viantor. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-abus-viantor-mips",
@@ -1137,7 +1193,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco Abus Viantor MIPS. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades."
+    "descripcion": "Casco Abus Viantor MIPS. Producto de la categoría Cascos, marca Abus. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "casco-cairbull-2",
@@ -1157,7 +1214,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Casco cairbull #2. Producto de la categoría Cascos, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Casco cairbull #2. Producto de la categoría Cascos, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "audifonos-lenovo-x3-pro",
@@ -1177,7 +1235,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Audífonos Lenovo X3 pro. Producto de la categoría Indumentaria, marca Lenovo. Disponibilidad: 1 unidades."
+    "descripcion": "Audífonos Lenovo X3 pro. Producto de la categoría Indumentaria, marca Lenovo. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "bolsa-de-agua-de-2-litros",
@@ -1197,7 +1256,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Bolsa de agua de 2 litros. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Bolsa de agua de 2 litros. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "bolso-para-ciclismo",
@@ -1217,7 +1277,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Bolso para ciclismo. Producto de la categoría Indumentaria, marca ISM. Disponibilidad: 2 unidades."
+    "descripcion": "Bolso para ciclismo. Producto de la categoría Indumentaria, marca ISM. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "buff",
@@ -1237,7 +1298,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Buff. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 6 unidades."
+    "descripcion": "Buff. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 6 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "buff-bandana",
@@ -1257,7 +1319,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Buff - bandana. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 51 unidades."
+    "descripcion": "bandana multifuncional",
+    "tieneDescripcionReal": true
   },
   {
     "id": "buff-de-invierno",
@@ -1277,7 +1340,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Buff de invierno. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Marca rock bros",
+    "tieneDescripcionReal": true
   },
   {
     "id": "buff-rock-bros",
@@ -1297,7 +1361,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Buff Rock bros. Producto de la categoría Indumentaria, marca Rock. Disponibilidad: 1 unidades."
+    "descripcion": "Buff de verano marca Rock bros",
+    "tieneDescripcionReal": true
   },
   {
     "id": "buff-sporttex",
@@ -1317,7 +1382,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Buff Sporttex. Producto de la categoría Indumentaria, marca Sporttex. Disponibilidad: 1 unidades."
+    "descripcion": "disponible en pasamontañas 50 bs\nY badanas 45 bs \nmaterial de algodon \nproteccion UV",
+    "tieneDescripcionReal": true
   },
   {
     "id": "buff-supay",
@@ -1337,7 +1403,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Buff supay. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Material de algodón",
+    "tieneDescripcionReal": true
   },
   {
     "id": "calza-larga-con-tiros",
@@ -1357,7 +1424,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calza larga con tiros. Producto de la categoría Indumentaria, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Calza larga con tiros \nBadana de gel\nCon bolsillo a un lado\nPreguntar por tallas disponibles",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-16x2125",
@@ -1377,7 +1445,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 16x2.125. Producto de la categoría Cubierta/Neumático, marca Valkiria. Disponibilidad: 4 unidades."
+    "descripcion": "Cámara 16x2.125. Producto de la categoría Cubierta/Neumático, marca Valkiria. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "camara-24-av",
@@ -1397,7 +1466,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 24 AV. Producto de la categoría Cubierta/Neumático, marca Valkiria. Disponibilidad: 4 unidades."
+    "descripcion": "Cámara AV 24",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-26-av-chaoyang",
@@ -1417,7 +1487,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Cámara 26 AV Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 8 unidades."
+    "descripcion": "Cámara AV 26",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-26-chaoyang",
@@ -1437,7 +1508,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 26 Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 5 unidades."
+    "descripcion": "Cámara aro 26 \nCon líquido antipinchazos \nYa no más parches!! \nUna vez que entra el espino, el líquido actúa inmediatamente y crea un grumo para sellar.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-275-av-chaoyang",
@@ -1457,7 +1529,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 27.5 Av Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 5 unidades."
+    "descripcion": "Cámara válvula normal AV",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-275-chaoyang",
@@ -1477,7 +1550,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Cámara 27.5 Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 8 unidades."
+    "descripcion": "Válvula francesa desmontable \n27.5 x 2.25/2.50",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-28-x-1-12",
@@ -1497,7 +1571,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 28 x 1-1/2. Producto de la categoría Cubierta/Neumático, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Cámara 28 x 1-1/2. Producto de la categoría Cubierta/Neumático, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "camara-29-chaoyang",
@@ -1517,7 +1592,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cámara 29 Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 5 unidades."
+    "descripcion": "Cámara con válvula francesa y válvula normal\nCalidad y durabilidad",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-29-chaoyang-2",
@@ -1537,7 +1613,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Cámara 29 Chaoyang. Producto de la categoría Cubierta/Neumático, marca Chaoyang. Disponibilidad: 24 unidades."
+    "descripcion": "Cámara con válvula francesa y válvula normal\nCalidad y durabilidad",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camara-acimut-700c",
@@ -1557,7 +1634,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Camara Acimut 700c. Producto de la categoría Cubierta/Neumático, marca Acimut. Disponibilidad: 84 unidades."
+    "descripcion": "Cámara de ruta\n700x18/25c\nVálvula francesa \nválvula con longitud de 48mm",
+    "tieneDescripcionReal": true
   },
   {
     "id": "aceite-de-cadena-massi-500-ml",
@@ -1577,7 +1655,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Aceite de cadena Massi 500 ml. Producto de la categoría Lubricantes, marca Massi. Disponibilidad: 1 unidades."
+    "descripcion": "lubricante teflonado \nDe 500 ml \nmodo de aplicacion: una gota cada eslabon\nPrimero lavar la cadena",
+    "tieneDescripcionReal": true
   },
   {
     "id": "grasa-para-carbono",
@@ -1597,7 +1676,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Grasa para carbono. Producto de la categoría Lubricantes, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Crema antideslizante\nEs una crema antideslizante diseñada para aplicar en uniones de fibra de carbono o metal en componentes de bicicleta. \nAyuda a aumentar la fricción y la estabilidad, previniendo el deslizamiento de piezas como tijas de sillín, manillares o extensiones de manillar. \nPermite reducir el torque de apriete necesario hasta en un 30% al ensamblar piezas, lo que puede prevenir daños por un ajuste excesivo. \nViene en un envase de 80ml y es fácil de aplicar directamente sobre las piezas antes de asegurarlas.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "grasa-premium-motorex-850-g",
@@ -1617,7 +1697,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Grasa Premium Motorex 850 g.. Producto de la categoría Lubricantes, marca Premium. Disponibilidad: 2 unidades."
+    "descripcion": "Grasa Premium Motorex 850 g.. Producto de la categoría Lubricantes, marca Premium. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "grasa-premium-shimano",
@@ -1637,7 +1718,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Grasa premium shimano. Producto de la categoría Lubricantes, marca Shimano. Disponibilidad: 3 unidades."
+    "descripcion": "lubricante de alta calidad diseñado específicamente para el mantenimiento de componentes de bicicleta. \nUso principal:\nSe utiliza para lubricar rodamientos de bujes, direcciones y ejes de pedalier, prolongando la vida útil de los componentes y asegurando un funcionamiento suave. \nCaracterísticas:\nEs resistente al agua y a la suciedad, lo que ayuda a proteger los rodamientos de la corrosión y el desgaste. \nCompatibilidad:\nEs segura para usar con arandelas de goma y juntas, ya que no las daña. \nAplicación:\nViene en un práctico envase con pico aplicador para una colocación precisa de la cantidad necesaria.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "lubricante-ceramico-squirt-120-ml",
@@ -1657,7 +1739,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Lubricante cerámico Squirt 120 ml. Producto de la categoría Lubricantes, marca Squirt. Disponibilidad: 2 unidades."
+    "descripcion": "Descubre el Lubricante Cerámico Squirt 120 ml, la innovación que tu bicicleta necesita. Con una fórmula única que prolonga la vida útil de tu cadena y piñones en un 80%. Olvídate de ensuciar tus manos y de los molestos ruidos. ¡Haz que tu pedalada sea más suave y eficiente! ¡Mejora tu experiencia ciclista con Valkiria Bikes! ¡Hazte con el tuyo ahora!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "lubricante-ceramico-squirt-15-ml",
@@ -1677,7 +1760,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Lubricante cerámico Squirt 15 ml. Producto de la categoría Lubricantes, marca Squirt. Disponibilidad: 7 unidades."
+    "descripcion": "Squirtlube es una emulsión innovadora que contiene cuatro tipos de cera y agua.\n\nEste es el tamaño normal y el producto principal de la gama.\n\nLo más destacado:\nUn cambio suave y eficiente\nLas manos negras, las pinzas de cadena y la cadena chirriante son cosa del pasado.\nPoco desgaste. La cadena y los piñones tienen al menos un 80% más de vida.\nNunca desengrase o limpie a alta presión la cadena de nuevo – cepillar o frotar si es necesario es suficiente.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "lubricante-pedros-enduro",
@@ -1697,7 +1781,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Lubricante Pedro's - Enduro. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 2 unidades."
+    "descripcion": "Lubricante Pedro's - Enduro. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lubricante-pedros-light-wet-lube",
@@ -1717,7 +1802,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Lubricante Pedro's - Light Wet Lube. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 2 unidades."
+    "descripcion": "Lubricante Pedro's - Light Wet Lube. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lubricante-pedros-wet-lube",
@@ -1737,7 +1823,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Lubricante Pedro's - Wet Lube. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 3 unidades."
+    "descripcion": "Lubricante Pedro's - Wet Lube. Producto de la categoría Lubricantes, marca Pedro's. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lubricante-silca-super-secret-ceramico",
@@ -1757,7 +1844,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Lubricante Silca Super Secret Cerámico. Producto de la categoría Lubricantes, marca Silca. Disponibilidad: 3 unidades."
+    "descripcion": "El Lubricante Silca Super Secret Cerámico de Valkiria Bikes es la clave para un rendimiento óptimo de tu bicicleta. Con su fórmula innovadora a base de cera y di-sulfuro de tungsteno, mantendrás tu cadena limpia, silenciosa y duradera. Este lubricante de alta tecnología desplaza la suciedad, reduce la fricción y es fácil de aplicar. ¡Potencia cada pedalada con Valkiria Bikes! ¡Hazte con el Lubricante Silca ahora y disfruta de un ciclismo sin preocupaciones!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "calas-look-x-track",
@@ -1777,7 +1865,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calas Look X Track. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 2 unidades."
+    "descripcion": "Calas Look X Track. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "calas-para-look-generico",
@@ -1797,7 +1886,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Calas para look genérico. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 7 unidades."
+    "descripcion": "Calas para look genérico. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "calas-shimano-amarilla",
@@ -1817,7 +1907,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Calas Shimano AMARILLA. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Calas Shimano AMARILLA. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "calas-shimano-sh10",
@@ -1837,7 +1928,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calas Shimano SH10. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "shimano industria  china\nrojas - 0° grados de flotacion \nideal para spriters, atletas prifesionales\nse requiere que conozcas de forma precisa la posicion optima de tus calas.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "calas-shimano-sh11",
@@ -1857,7 +1949,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calas Shimano SH11. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Calas amarillas - 6 grados de flotacion \nlas mas populares \nya que permite movimiento libre y menos tencion en las articulaciones.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "calas-shimano-sh12",
@@ -1877,7 +1970,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calas Shimano SH12. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 3 unidades."
+    "descripcion": "SHIMANO ORIGINAL \n calas azules 2 grados de flotacion \npunto medio entre las amarillas y rojas",
+    "tieneDescripcionReal": true
   },
   {
     "id": "calas-shimano-sh-56",
@@ -1897,7 +1991,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Calas Shimano SH-56. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 6 unidades."
+    "descripcion": "Calas Shimano SH-56. Producto de la categoría Pedales/Calas, marca Shimano. Disponibilidad: 6 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "calas-time-10-y-13-17",
@@ -1917,7 +2012,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Calas TIME 10° y 13°-17°. Producto de la categoría Pedales/Calas, marca Time. Disponibilidad: 4 unidades."
+    "descripcion": "Calas TIME 10° y 13°-17°. Producto de la categoría Pedales/Calas, marca Time. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "pedal-de-aluminio-clasico",
@@ -1937,7 +2033,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Pedal de Aluminio clásico. Producto de la categoría Pedales/Calas, marca Aluminio. Disponibilidad: 2 unidades."
+    "descripcion": "Pedal de Aluminio clásico. Producto de la categoría Pedales/Calas, marca Aluminio. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "pedal-look-ruta-keo-classic-3",
@@ -1957,7 +2054,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Pedal look ruta keo Classic 3. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 1 unidades."
+    "descripcion": "Pedal look ruta keo Classic 3. Producto de la categoría Pedales/Calas, marca Look. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "adaptador-de-valvula-francesa-a-valvula-americana",
@@ -1977,7 +2075,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Adaptador de válvula francesa a válvula americana. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 15 unidades."
+    "descripcion": "ideal por si no tienes inflador para valvula francesa\ntambien muy practico para llevarlo a tus rutas y usarlo en caso de emergencia",
+    "tieneDescripcionReal": true
   },
   {
     "id": "cable-para-rodillo-de-rulos",
@@ -1997,7 +2096,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cable para rodillo de rulos. Producto de la categoría Herramientas, marca ODI. Disponibilidad: 2 unidades."
+    "descripcion": "cable de repuesto para rodillo",
+    "tieneDescripcionReal": true
   },
   {
     "id": "cadena-de-seguridad",
@@ -2017,7 +2117,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Cadena de seguridad. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 12 unidades."
+    "descripcion": "Cadena de seguridad. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 12 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "desmonta-llantas",
@@ -2037,7 +2138,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Desmonta llantas. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 6 unidades."
+    "descripcion": "Desmonta llantas. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 6 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "desmonta-llantas-rockbros",
@@ -2057,7 +2159,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Desmonta llantas rockbros. Producto de la categoría Herramientas, marca Rockbros. Disponibilidad: 7 unidades."
+    "descripcion": "Desmonta llantas rockbros. Producto de la categoría Herramientas, marca Rockbros. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "extractor-de-cadena",
@@ -2077,7 +2180,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Extractor de cadena. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 0 unidades."
+    "descripcion": "Extractor de cadena. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 0 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "extractor-de-quicklink",
@@ -2097,7 +2201,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Extractor de QuickLink. Producto de la categoría Herramientas, marca QuickLink. Disponibilidad: 5 unidades."
+    "descripcion": "Extractor de QuickLink. Producto de la categoría Herramientas, marca QuickLink. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "extractor-de-valvular-toopre",
@@ -2117,7 +2222,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Extractor de valvular Toopre. Producto de la categoría Herramientas, marca Toopre. Disponibilidad: 3 unidades."
+    "descripcion": "Extractor de valvular Toopre. Producto de la categoría Herramientas, marca Toopre. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "funda-risk-para-cableado-interno",
@@ -2137,7 +2243,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Funda RISK para Cableado Interno. Producto de la categoría Herramientas, marca RISK. Disponibilidad: 7 unidades."
+    "descripcion": "Funda RISK para Cableado Interno. Producto de la categoría Herramientas, marca RISK. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "guiador-chicotillo-interno",
@@ -2157,7 +2264,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Guiador chicotillo interno. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Guiador chicotillo interno. Producto de la categoría Herramientas, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-de-manillar",
@@ -2177,7 +2285,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Cinta de manillar. Producto de la categoría Manillar/Stem/Puños, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "color  negro",
+    "tieneDescripcionReal": true
   },
   {
     "id": "cinta-de-manillar-odi",
@@ -2197,7 +2306,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cinta de manillar ODI. Producto de la categoría Manillar/Stem/Puños, marca ODI. Disponibilidad: 4 unidades."
+    "descripcion": "Cinta de manillar ODI. Producto de la categoría Manillar/Stem/Puños, marca ODI. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-de-manillar-rockbros",
@@ -2217,7 +2327,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Cinta de manillar ROCKBROS. Producto de la categoría Manillar/Stem/Puños, marca Rockbros. Disponibilidad: 7 unidades."
+    "descripcion": "Cinta de manillar ROCKBROS. Producto de la categoría Manillar/Stem/Puños, marca Rockbros. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cinta-de-manillar-supacaz",
@@ -2237,7 +2348,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cinta de manillar Supacaz. Producto de la categoría Manillar/Stem/Puños, marca Supacaz. Disponibilidad: 1 unidades."
+    "descripcion": "linea de PETER SAGAN\noriginal",
+    "tieneDescripcionReal": true
   },
   {
     "id": "cintas-replica-supacaz",
@@ -2257,7 +2369,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cintas replica supacaz. Producto de la categoría Manillar/Stem/Puños, marca Supacaz. Disponibilidad: 5 unidades."
+    "descripcion": "Cintas replica supacaz. Producto de la categoría Manillar/Stem/Puños, marca Supacaz. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "funda-de-silicona-para-shimano-r7000r8000",
@@ -2277,7 +2390,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Funda de silicona para Shimano R7000/R8000. Producto de la categoría Manillar/Stem/Puños, marca Shimano. Disponibilidad: 22 unidades."
+    "descripcion": "Para modelo rt7000 rt8000",
+    "tieneDescripcionReal": true
   },
   {
     "id": "manillar-de-aluminio-wake-mtb",
@@ -2297,7 +2411,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Manillar de Aluminio WAKE MTB. Producto de la categoría Manillar/Stem/Puños, marca Aluminio. Disponibilidad: 7 unidades."
+    "descripcion": "manubrio de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "manillar-de-carbono-race-faceec90",
@@ -2317,7 +2432,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Manillar de Carbono RACE FACE/EC90. Producto de la categoría Manillar/Stem/Puños, marca Race Face. Disponibilidad: 3 unidades."
+    "descripcion": "Manillar de Carbono RACE FACE/EC90. Producto de la categoría Manillar/Stem/Puños, marca Race Face. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "manubri-carbono-race-face-next",
@@ -2337,7 +2453,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "MANUBRI CARBONO RACE FACE NEXT. Producto de la categoría Manillar/Stem/Puños, marca Race Face. Disponibilidad: 0 unidades."
+    "descripcion": "El Manubri de Carbono Race Face Next es la elección ideal para los amantes del ciclismo exigentes. Con un diámetro de 3.18 cm, altura de 0.2 cm, y largo de 7 cm, este manillar de fibra de carbono garantiza durabilidad y rendimiento óptimos. Disponible en elegante color negro brillante, este producto es una apuesta segura para mejorar tu experiencia en cada ruta. ¡Hazte con el tuyo y eleva tu nivel de ciclismo hoy mismo!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "puno-odi-pro",
@@ -2357,7 +2474,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "PUÑO ODI PRO. Producto de la categoría Manillar/Stem/Puños, marca ODI. Disponibilidad: 4 unidades."
+    "descripcion": "PUÑO ODI PRO. Producto de la categoría Manillar/Stem/Puños, marca ODI. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-10v-toopre",
@@ -2377,7 +2495,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 10v TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 3 unidades."
+    "descripcion": "Cadena 10v TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-11v-kmc-x11el",
@@ -2397,7 +2516,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 11v KMC x11EL. Producto de la categoría Cadena/Piñón, marca KMC. Disponibilidad: 1 unidades."
+    "descripcion": "Cadena 11v KMC x11EL. Producto de la categoría Cadena/Piñón, marca KMC. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-11v-sram",
@@ -2417,7 +2537,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 11v SRAM. Producto de la categoría Cadena/Piñón, marca SRAM. Disponibilidad: 2 unidades."
+    "descripcion": "Cadena 11v SRAM. Producto de la categoría Cadena/Piñón, marca SRAM. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-12v-shimano-deore-6100",
@@ -2437,7 +2558,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 12v Shimano deore 6100. Producto de la categoría Cadena/Piñón, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Cadena 12v Shimano deore 6100. Producto de la categoría Cadena/Piñón, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-8v-toopre",
@@ -2457,7 +2579,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 8v TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 2 unidades."
+    "descripcion": "Cadena 8v TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-9v-toopre",
@@ -2477,7 +2600,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena 9V TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 3 unidades."
+    "descripcion": "Cadena 9V TOOPRE. Producto de la categoría Cadena/Piñón, marca TOOPRE. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-de-9v-shimano",
@@ -2497,7 +2621,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena de 9v Shimano. Producto de la categoría Cadena/Piñón, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Cadena de 9v Shimano. Producto de la categoría Cadena/Piñón, marca Shimano. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-kmc-12v-negro",
@@ -2517,7 +2642,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena kmc 12v negro. Producto de la categoría Cadena/Piñón, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Cadena kmc 12v negro. Producto de la categoría Cadena/Piñón, marca Valkiria. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "cadena-kmc-hl1-wide-bmx",
@@ -2537,7 +2663,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena KMC HL1 Wide - Bmx. Producto de la categoría Cadena/Piñón, marca KMC. Disponibilidad: 2 unidades."
+    "descripcion": "medio eslabon",
+    "tieneDescripcionReal": true
   },
   {
     "id": "cadena-kmc-x10-light-gold",
@@ -2557,7 +2684,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Cadena KMC X10 Light Gold. Producto de la categoría Cadena/Piñón, marca KMC. Disponibilidad: 1 unidades."
+    "descripcion": "Cadena KMC X10 Light Gold. Producto de la categoría Cadena/Piñón, marca KMC. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-11v-shimano-105",
@@ -2577,7 +2705,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 11v Shimano 105. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 3 unidades."
+    "descripcion": "Caja 11v Shimano 105. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-12v-shimano-deore",
@@ -2597,7 +2726,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 12v Shimano deore. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja 12v Shimano deore. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-7v-8v-generico",
@@ -2617,7 +2747,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Caja 7v 8v genérico. Producto de la categoría Shifter/Desviador, marca Valkiria. Disponibilidad: 15 unidades."
+    "descripcion": "Caja 7v 8v genérico. Producto de la categoría Shifter/Desviador, marca Valkiria. Disponibilidad: 15 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-7v-antiguo",
@@ -2637,7 +2768,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 7v antiguo. Producto de la categoría Shifter/Desviador, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Caja 7v antiguo. Producto de la categoría Shifter/Desviador, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-7v-shimano-tourney",
@@ -2657,7 +2789,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 7v Shimano tourney. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja 7v Shimano tourney. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-8v-shimano-altus",
@@ -2677,7 +2810,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 8v Shimano Altus. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja 8v Shimano Altus. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-9v-shimano-altus",
@@ -2697,7 +2831,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja 9v Shimano Altus. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja 9v Shimano Altus. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-shimano-11v-deore-5100",
@@ -2717,7 +2852,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja shimano 11v deore 5100. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja shimano 11v deore 5100. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "caja-shimano-deore-10v-5120",
@@ -2737,7 +2873,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja shimano deore 10v 5120. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Modelo rd-m5120",
+    "tieneDescripcionReal": true
   },
   {
     "id": "caja-shimano-slx-7100",
@@ -2757,7 +2894,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja shimano SLX 7100. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Caja shimano SLX 7100. Producto de la categoría Shifter/Desviador, marca Shimano. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "ajuste-de-tija-de-tubo-de-sillin",
@@ -2777,7 +2915,8 @@
     "destacado": true,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Ajuste de tija (de tubo de sillín). Producto de la categoría Tija/Sillín, marca Ajuste. Disponibilidad: 4 unidades."
+    "descripcion": "Medida 34.9\n31.8",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ajuste-de-tija-de-tubo-de-sillin-2",
@@ -2797,7 +2936,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Ajuste de tija (de tubo de sillín). Producto de la categoría Tija/Sillín, marca Ajuste. Disponibilidad: 4 unidades."
+    "descripcion": "Medida 34.9\n31.8",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ajuste-de-tija-tubo-de-sillin",
@@ -2817,7 +2957,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Ajuste de tija (tubo de sillín). Producto de la categoría Tija/Sillín, marca Ajuste. Disponibilidad: 10 unidades."
+    "descripcion": "Medidas 34.9\n31.8",
+    "tieneDescripcionReal": true
   },
   {
     "id": "ajuste-de-tija-tubo-de-sillin-2",
@@ -2837,7 +2978,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Ajuste de tija (tubo de sillín). Producto de la categoría Tija/Sillín, marca Ajuste. Disponibilidad: 11 unidades."
+    "descripcion": "Medidas 34.9\n31.8",
+    "tieneDescripcionReal": true
   },
   {
     "id": "funda-de-gel-para-sillin",
@@ -2857,7 +2999,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Funda de gel para sillin. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 47 unidades."
+    "descripcion": "Funda de gel para sillin. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 47 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "sillin-con-diseno",
@@ -2877,7 +3020,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sillin con diseño. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Sillin con diseño. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "sillin-con-gel",
@@ -2897,7 +3041,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sillin con gel. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Sillin con gel. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "sillin-ec90-ergo",
@@ -2917,7 +3062,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sillin EC90 Ergo. Producto de la categoría Tija/Sillín, marca Ergo. Disponibilidad: 1 unidades."
+    "descripcion": "Sillin EC90 Ergo. Producto de la categoría Tija/Sillín, marca Ergo. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "sillin-ec90-power-comp",
@@ -2937,7 +3083,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sillin EC90 Power Comp. Producto de la categoría Tija/Sillín, marca Power. Disponibilidad: 3 unidades."
+    "descripcion": "Utilice objetos: Unisex\nEstilo: Asiento delantero Ma\nMaterial: cuero\nFunción: negro\nTamaño: 240 mm-143 mm\nPeso: alrededor de 210 g\nDiseño de ranura ergonómico, modelos de entrenamiento Asiento de carretera,\nCarretera plana, sprint, carretera de subida y bajada, ¡totalmente resistente universal!\n¡El acolchado de nivel 2 te brinda suficiente comodidad!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "sillin-pequeno",
@@ -2957,7 +3104,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Sillín pequeño. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Sillín pequeño. Producto de la categoría Tija/Sillín, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "aceite-mineral-hidraulico",
@@ -2977,7 +3125,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Aceite mineral hidráulico. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Aceite mineral 500 ml",
+    "tieneDescripcionReal": true
   },
   {
     "id": "adaptador-de-discos-de-center-look-a-pernos",
@@ -2997,7 +3146,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Adaptador de discos de Center look a pernos. Producto de la categoría Freno/Pastilla/Disco, marca Look. Disponibilidad: 2 unidades."
+    "descripcion": "Adaptador de discos de Center look a pernos. Producto de la categoría Freno/Pastilla/Disco, marca Look. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "adaptador-para-macero-boost-de-3-mm",
@@ -3017,7 +3167,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Adaptador para macero Boost de 3 mm. Producto de la categoría Freno/Pastilla/Disco, marca Boost. Disponibilidad: 5 unidades."
+    "descripcion": "Delantero 100/110\nTrasero 142/148",
+    "tieneDescripcionReal": true
   },
   {
     "id": "chicotillo-de-caja-economico",
@@ -3037,7 +3188,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Chicotillo de caja económico. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 45 unidades."
+    "descripcion": "Chicotillo de caja económico. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 45 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "chicotillo-de-caja-sram",
@@ -3057,7 +3209,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Chicotillo de caja SRAM. Producto de la categoría Freno/Pastilla/Disco, marca SRAM. Disponibilidad: 15 unidades."
+    "descripcion": "Chicotillo de caja SRAM. Producto de la categoría Freno/Pastilla/Disco, marca SRAM. Disponibilidad: 15 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "chicotillo-de-freno-mtb-economico",
@@ -3077,7 +3230,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Chicotillo de freno mtb económico. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 47 unidades."
+    "descripcion": "Chicotillo de freno mtb económico. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 47 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "chicotillo-de-freno-para-ruta",
@@ -3097,7 +3251,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Chicotillo de freno para ruta. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 100 unidades."
+    "descripcion": "Chicotillo de freno para ruta. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 100 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "chicotillo-de-freno-ruta-montana",
@@ -3117,7 +3272,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Chicotillo de freno RUTA - MONTAÑA. Producto de la categoría Freno/Pastilla/Disco, marca RUTA. Disponibilidad: 2 unidades."
+    "descripcion": "Chicotillo de freno RUTA - MONTAÑA. Producto de la categoría Freno/Pastilla/Disco, marca RUTA. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "disco-de-freno-140mm",
@@ -3137,7 +3293,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Disco de freno 140mm. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Disco de freno 140mm. Producto de la categoría Freno/Pastilla/Disco, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "disco-de-freno-1800mm-center-look",
@@ -3157,7 +3314,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Disco de freno 1800mm Center look. Producto de la categoría Freno/Pastilla/Disco, marca Look. Disponibilidad: 0 unidades."
+    "descripcion": "Shimano  Rt-MT800 \nSHIMANO XT \n180MM",
+    "tieneDescripcionReal": true
   },
   {
     "id": "boquilla-para-c02",
@@ -3177,7 +3335,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Boquilla para C02. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Boquilla para C02. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "camel-back-mochila",
@@ -3197,7 +3356,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "camel back/ mochila. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "La mochila Camel Back de Valkiria Bikes, con capacidad de 2 litros, es el complemento ideal para tus aventuras en bicicleta. Diseñada para brindarte comodidad y funcionalidad, esta mochila te permite llevar contigo todo lo necesario de forma práctica y segura. ¡Haz tuya esta mochila y disfruta al máximo de tus paseos en bici! ¡No te quedes sin la tuya!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "camel-back-resistente",
@@ -3217,7 +3377,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "camel back resistente. Producto de la categoría Accesorios, marca ESI. Disponibilidad: 0 unidades."
+    "descripcion": "En Valkiria Bikes te presenta el \"camel back resistente\", un accesorio de ciclismo con capacidad de dos litros. Fabricado con una tela resistente y de mayor grosor para mayor durabilidad y un acabado superior. ¡Hazlo tuyo y lleva contigo la hidratación que necesitas en tus aventuras! ¡Descúbrelo ya en Valkiria Bikes!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "espaciadores-enlee",
@@ -3237,7 +3398,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Espaciadores Enlee. Producto de la categoría Accesorios, marca Enlee. Disponibilidad: 5 unidades."
+    "descripcion": "Espaciadores Enlee. Producto de la categoría Accesorios, marca Enlee. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "estuche-para-celular",
@@ -3257,7 +3419,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "estuche para celular. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 0 unidades."
+    "descripcion": "estuche para celular. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 0 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "funda-para-horquilla-vg-sports",
@@ -3277,7 +3440,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Funda para horquilla VG Sports. Producto de la categoría Accesorios, marca Sports. Disponibilidad: 4 unidades."
+    "descripcion": "Funda para horquilla VG Sports. Producto de la categoría Accesorios, marca Sports. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "guardabarro-delantero-enlee",
@@ -3297,7 +3461,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Guardabarro Delantero Enlee. Producto de la categoría Accesorios, marca Delantero. Disponibilidad: 1 unidades."
+    "descripcion": "Guardabarro Delantero Enlee. Producto de la categoría Accesorios, marca Delantero. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "guardabarro-trasero",
@@ -3317,7 +3482,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Guardabarro trasero. Producto de la categoría Accesorios, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "El \"Guardabarro trasero\" de Valkiria Bikes es tu aliado perfecto en días lluviosos. Protege tu bicicleta con estilo y calidad. ¡Hazte con el tuyo ahora y pedalea con confianza bajo cualquier clima!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "guardabarro-trasero-enlee",
@@ -3337,7 +3503,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Guardabarro trasero Enlee. Producto de la categoría Accesorios, marca Enlee. Disponibilidad: 5 unidades."
+    "descripcion": "Guardabarro trasero Enlee. Producto de la categoría Accesorios, marca Enlee. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "guardabarros-rockbros",
@@ -3357,7 +3524,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Guardabarros rockbros. Producto de la categoría Accesorios, marca Rockbros. Disponibilidad: 1 unidades."
+    "descripcion": "Guardabarros rockbros. Producto de la categoría Accesorios, marca Rockbros. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "barras-energybar",
@@ -3377,7 +3545,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Barras Energybar. Producto de la categoría Nutrición, marca Energybar. Disponibilidad: 1 unidades."
+    "descripcion": "Una barrita energética que combina carbohidratos con una mezcla de vitaminas y minerales esenciales. Contiene vitamina C y varias del complejo B, incluyendo B1, B2, B3, B6, B9 y B12, así como ácido pantoténico. \n\nCon 13.3 gramos de carbohidratos, esta barrita está enriquecida con almendra y chocolate blanco, ofreciendo un aporte nutritivo ideal para mantener la energía durante el día.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "barras-integrales",
@@ -3397,7 +3566,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "barras integrales. Producto de la categoría Nutrición, marca Valkiria. Disponibilidad: 117 unidades."
+    "descripcion": "Las nuevas \"barras integrales\" de Valkiria Bikes son el aliado perfecto para tu entrenamiento. Con sabores intensos a chocolate y papaya, estas barras a base de carbohidratos te brindarán la energía necesaria para lograr tu mejor rendimiento. ¡Hazte con ellas y potencia tu entrenamiento al máximo! ¡Valkiria Bikes, tu compañero de ciclismo ideal!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "creatina-monohidrata-bodyaction",
@@ -3417,7 +3587,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Creatina monohidrata BODYACTION. Producto de la categoría Nutrición, marca BODYACTION. Disponibilidad: 46 unidades."
+    "descripcion": "Creatina monohidrata BODYACTION. Producto de la categoría Nutrición, marca BODYACTION. Disponibilidad: 46 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "creatina-monohidratada",
@@ -3437,7 +3608,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Creatina monohidratada. Producto de la categoría Nutrición, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "La creatina monohidratada es un suplemento diseñado para mejorar el rendimiento físico en ejercicios de alta intensidad y corta duración. \n\nEste compuesto ayuda a liberar energía, aumentando la fuerza y la potencia máxima. Además, contribuye a la recuperación y al crecimiento de la masa muscular, lo que la convierte en una opción ideal para quienes buscan potenciar su entrenamiento.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "dextrosa",
@@ -3457,7 +3629,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Dextrosa. Producto de la categoría Nutrición, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "La dextrosa es un suplemento deportivo que actúa como fuente de energía inmediata, gracias a su alto índice glucémico y rápida absorción. Es ideal para atletas y personas que practican fitness, ya que permite reponer rápidamente los niveles de energía durante o después del ejercicio. \n\nEste suplemento es una opción efectiva para quienes buscan mejorar su rendimiento y acelerar la recuperación tras actividades físicas intensas.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "essencial-9-aminoacidos",
@@ -3477,7 +3650,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Essencial-9 aminoácidos. Producto de la categoría Nutrición, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Composición: Contiene los nueve aminoácidos esenciales (EAAs), incluyendo 7,2g de BCAAs por porción, además de vitamina C y vitaminas del complejo B. \nFunción: Ayuda en la recuperación y fortalecimiento muscular, así como en el desempeño y la recuperación optimizada. \nSabor: El envase de la imagen es sabor Guaraná con Açaí, aunque también está disponible en otros sabores como Limón & Açaí o Limonada Suiza. \nPresentación: Se presenta en polvo en un pote de 225g. \nUso: Los aminoácidos esenciales son cruciales para el cuerpo, ya que no puede producirlos y deben obtenerse a través de la dieta o suplementos. Se recomienda su consumo después del entrenamiento o con una comida.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "gel-recarb-black-con-cafeina-600gr",
@@ -3497,7 +3671,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Gel RECARB black con cafeína 600gr. Producto de la categoría Nutrición, marca RECARB. Disponibilidad: 1 unidades."
+    "descripcion": "Composición: Contiene una combinación de diferentes carbohidratos para energía inmediata y prolongada (maltodextrina, fructosa, palatinosa y waxy maize), así como electrolitos para la hidratación y recuperación. La versión \"Black\" también incluye ingredientes como taurina, cafeína y beta alanina, que contribuyen al aumento del rendimiento y la reducción de la fatiga muscular.\nPresentación: Se presenta en un formato \"squeeze\" de 600g, lo que equivale a aproximadamente 20 dosis individuales. También existen presentaciones en sobres individuales.\nBeneficios: Busca aumentar el rendimiento, proporcionar energía rápida y prolongada, reponer electrolitos y reducir la fatiga durante los entrenamientos y competiciones.\nUso: Se recomienda consumir una dosis antes o durante el entrenamiento, y es importante acompañar su consumo con agua debido a su consistencia.\nConsideraciones: No contiene gluten, pero sí contiene fructosa y glucosa, por lo que los diabéticos deben consultar a un profesional de la salud antes de usarlo. No está indicado para niños, embarazadas, lactantes o personas con enfermedades sin orientación médica.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "gel-recarb-black-con-cafeina",
@@ -3517,7 +3692,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Gel Recarb Black con cafeína. Producto de la categoría Nutrición, marca Recarb. Disponibilidad: 47 unidades."
+    "descripcion": "Este gel contiene cafeína, beta alanina y taurina, ingredientes que contribuyen a aumentar la energía y mejorar el rendimiento físico. Es ideal para quienes buscan un impulso durante actividades deportivas o entrenamientos intensos. \n\nSu formulación está diseñada para proporcionar una rápida absorción, ayudando a mantener la energía y la concentración. Perfecto para llevar en entrenamientos o competencias.\nCaja de 10 unidades a 170 bs",
+    "tieneDescripcionReal": true
   },
   {
     "id": "gel-recarb-sin-cafeina-600gr",
@@ -3537,7 +3713,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Gel Recarb sin cafeína 600gr. Producto de la categoría Nutrición, marca Recarb. Disponibilidad: 2 unidades."
+    "descripcion": "Función: Proporciona energía rápida durante actividades físicas prolongadas, ayudando a reponer carbohidratos y electrolitos. \nComposición: Contiene una combinación de carbohidratos (maltodextrina, fructosa, palatinosa, maíz ceroso), proteínas (proteína de arroz concentrada) y vitaminas (A, B, C, D, E). \nBeneficios: Mejora el rendimiento, reduce la fatiga y contribuye a la hidratación. \nVariantes: Existen versiones como el Recarb Energy Gel Black que incluye taurina, cafeína y beta alanina para un impulso adicional en actividades de alta intensidad. \nPresentación: Se muestra en un envase de 600g y está etiquetado para 20 dosis.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "geles-energel-caja-de-10u",
@@ -3557,7 +3734,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Geles Energel, Caja de 10u.. Producto de la categoría Nutrición, marca Energel. Disponibilidad: 77 unidades."
+    "descripcion": "Geles Energel, Caja de 10u.. Producto de la categoría Nutrición, marca Energel. Disponibilidad: 77 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-biplato-38-28-mod-6000",
@@ -3577,7 +3755,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela BIPLATO 38-28 mod 6000. Producto de la categoría Biela/Platos, marca BIPLATO. Disponibilidad: 1 unidades."
+    "descripcion": "Biela BIPLATO 38-28 mod 6000. Producto de la categoría Biela/Platos, marca BIPLATO. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-green-twister-104-bcd",
@@ -3597,7 +3776,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela Green Twister 104 BCD. Producto de la categoría Biela/Platos, marca Green. Disponibilidad: 2 unidades."
+    "descripcion": "biela integrada de 170mm \nbcd 104 \npeso: 854 + botom",
+    "tieneDescripcionReal": true
   },
   {
     "id": "biela-izquierda",
@@ -3617,7 +3797,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela izquierda. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Biela izquierda. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-racework-gpx",
@@ -3637,7 +3818,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela racework GPX. Producto de la categoría Biela/Platos, marca GPX. Disponibilidad: 2 unidades."
+    "descripcion": "Biela racework GPX. Producto de la categoría Biela/Platos, marca GPX. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-racework-xt-eje-integrado",
@@ -3657,7 +3839,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela racework XT eje integrado. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Biela racework XT eje integrado. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-shimano-105-r7100-50-34-12v",
@@ -3677,7 +3860,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela Shimano 105 R7100 50-34 12v. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "170mm",
+    "tieneDescripcionReal": true
   },
   {
     "id": "biela-shimano-deore-6100",
@@ -3697,7 +3881,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela Shimano deore 6100. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Biela Shimano deore 6100. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-shimano-deore-m5100",
@@ -3717,7 +3902,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Biela Shimano deore M5100. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Biela Shimano deore M5100. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "biela-shimano-slx-7100",
@@ -3737,7 +3923,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Biela Shimano SLX 7100. Producto de la categoría Biela/Platos, marca Shimano. Disponibilidad: 2 unidades."
+    "descripcion": "Biela con hoja",
+    "tieneDescripcionReal": true
   },
   {
     "id": "biela-triplato-prowhell",
@@ -3757,7 +3944,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Biela triplato prowhell. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 11 unidades."
+    "descripcion": "Biela triplato prowhell. Producto de la categoría Biela/Platos, marca Valkiria. Disponibilidad: 11 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "grupo-shimano-deore-m4100-10v",
@@ -3777,7 +3965,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Grupo Shimano Deore M4100 10v. Producto de la categoría Grupos Completos, marca Shimano. Disponibilidad: 0 unidades."
+    "descripcion": "cadena KMC silver/black\ncaja shimano deore M5120\nshifter shimano deore M4100\nbiela shimano deore M5100\npiñon shimano deore M4100 (11-42  11-46)",
+    "tieneDescripcionReal": true
   },
   {
     "id": "grupo-shimano-deore-m5100-11v",
@@ -3797,7 +3986,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Grupo Shimano Deore M5100 11v. Producto de la categoría Grupos Completos, marca Shimano. Disponibilidad: 0 unidades."
+    "descripcion": "cadena Shimano deore \nbotom MT501\ncaja shimano deore M5100\nshifter shimano deore M5100\npiñon shimano deore M5100\nbiela shimano deore M5100",
+    "tieneDescripcionReal": true
   },
   {
     "id": "grupo-shimano-slx-m7100-12v",
@@ -3817,7 +4007,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Grupo Shimano SLX M7100 12v. Producto de la categoría Grupos Completos, marca Shimano. Disponibilidad: 0 unidades."
+    "descripcion": "cadena SLX \ncaja shimano SLX m7100\npiñon microspline shimano SLX 7100\nshfiter shimano slx M7100 \nbotom XT \nBiela shimano SLX 7100",
+    "tieneDescripcionReal": true
   },
   {
     "id": "lentes-economicos",
@@ -3837,7 +4028,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "Lentes económicos. Producto de la categoría Gafas/Lentes, marca Valkiria. Disponibilidad: 60 unidades."
+    "descripcion": "Lentes bonitos y baratos 😉😎😎😎",
+    "tieneDescripcionReal": true
   },
   {
     "id": "lentes-economicos-amarillos-y-transparentes",
@@ -3857,7 +4049,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Lentes económicos amarillos y transparentes. Producto de la categoría Gafas/Lentes, marca Valkiria. Disponibilidad: 18 unidades."
+    "descripcion": "Lentes económicos amarillos y transparentes. Producto de la categoría Gafas/Lentes, marca Valkiria. Disponibilidad: 18 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lentes-foto-cromaticos-scycn",
@@ -3877,7 +4070,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Lentes foto cromáticos SCYCN. Producto de la categoría Gafas/Lentes, marca SCYCN. Disponibilidad: 7 unidades."
+    "descripcion": "Lentes foto cromáticos SCYCN. Producto de la categoría Gafas/Lentes, marca SCYCN. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lentes-para-ninos",
@@ -3897,7 +4091,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Lentes para niños. Producto de la categoría Gafas/Lentes, marca Valkiria. Disponibilidad: 12 unidades."
+    "descripcion": "Lentes para niños. Producto de la categoría Gafas/Lentes, marca Valkiria. Disponibilidad: 12 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "botella-para-proteina",
@@ -3917,7 +4112,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Botella para proteína. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Botella para proteína. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "botellon-fly",
@@ -3937,7 +4133,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "botellón FLY. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 8 unidades."
+    "descripcion": "en color rojo, amarrillo , negro , plomo , blanco , verde suave ,azul , de 500ml \nel mas ligero del mercado\nusado por ciclistas de world tour",
+    "tieneDescripcionReal": true
   },
   {
     "id": "botellon-rock-bros",
@@ -3957,7 +4154,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Botellón rock bros. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Botellon bros de  de 550 ML",
+    "tieneDescripcionReal": true
   },
   {
     "id": "botellones-termicos-elite",
@@ -3977,7 +4175,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Botellones térmicos élite. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 1 unidades."
+    "descripcion": "Botellones térmicos élite. Producto de la categoría Botellones, marca Valkiria. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "porta-botellon",
@@ -3997,7 +4196,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Porta botellón. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Porta botellón lateral \nRock bros \nMaterial de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "porta-botellon-elite",
@@ -4017,7 +4217,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Porta botellón elite. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 4 unidades."
+    "descripcion": "Su diseño permite una fácil inserción y extracción del bidón, y cuenta con un sistema autoajustable que se adapta al diámetro del mismo para asegurar la retención y evitar vibraciones. \nEstá fabricado con poliamida reforzada, lo que le otorga durabilidad y un agarre firme incluso en terrenos irregulares o descensos a alta velocidad. \nEs utilizado por equipos profesionales de ciclismo y ha sido probado en carretera por ciclistas de élite.",
+    "tieneDescripcionReal": true
   },
   {
     "id": "portabotellon",
@@ -4037,7 +4238,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Portabotellon. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 7 unidades."
+    "descripcion": "Portabotellon de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "portabotellon-2",
@@ -4057,7 +4259,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Portabotellon. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 4 unidades."
+    "descripcion": "Portabotellon de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "portabotellon-3",
@@ -4077,7 +4280,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Portabotellon. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 10 unidades."
+    "descripcion": "Portabotellon de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "portabotellon-aluminio",
@@ -4097,7 +4301,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Portabotellon aluminio. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 19 unidades."
+    "descripcion": "Portabotellon de aluminio",
+    "tieneDescripcionReal": true
   },
   {
     "id": "portabotellon-elite-ala",
@@ -4117,7 +4322,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Portabotellón elite ala. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Portabotellón elite ala. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "portabotellon-elite-cannibal-xc",
@@ -4137,7 +4343,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Portabotellon élite canníbal xc. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Portabotellon élite canníbal xc. Producto de la categoría Portabotellón/Accesorios, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "portabotellon-lateral-rockbros",
@@ -4157,7 +4364,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Portabotellon lateral rockbros. Producto de la categoría Portabotellón/Accesorios, marca Rockbros. Disponibilidad: 4 unidades."
+    "descripcion": "Portabotellon lateral rockbros. Producto de la categoría Portabotellón/Accesorios, marca Rockbros. Disponibilidad: 4 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "portabotellon-odi",
@@ -4177,7 +4385,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Portabotellon ODI. Producto de la categoría Portabotellón/Accesorios, marca ODI. Disponibilidad: 5 unidades."
+    "descripcion": "Portabotellon ODI. Producto de la categoría Portabotellón/Accesorios, marca ODI. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "bicicleta-cicletrak",
@@ -4197,7 +4406,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "bicicleta cicletrak. Producto de la categoría Bicicletas, marca Valkiria. Disponibilidad: 0 unidades."
+    "descripcion": "Talla M \nSuspención de aire 120 \n9 velocidades monoplato \nShimano Altus \nFrenos hidráulicos TEKTRO \nMaceros a rodamiento sellado",
+    "tieneDescripcionReal": true
   },
   {
     "id": "bicicleta-cycletrak",
@@ -4217,7 +4427,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "bicicleta cycletrak. Producto de la categoría Bicicletas, marca Valkiria. Disponibilidad: 0 unidades."
+    "descripcion": "Talla M \nSuspención de aire 120 \n9 velocidades monoplato \nShimano Altus \nFrenos hidráulicos TEKTRO \nMaceros a rodamiento sellado",
+    "tieneDescripcionReal": true
   },
   {
     "id": "estuche-grande",
@@ -4237,7 +4448,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Estuche grande. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Estuche grande. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "estuche-impermeable",
@@ -4257,7 +4469,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Estuche impermeable. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 3 unidades."
+    "descripcion": "Estuche impermeable. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 3 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "estuche-pequeno",
@@ -4277,7 +4490,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Estuche pequeño. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Estuche pequeño. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "estuche-portacelular",
@@ -4297,7 +4511,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Estuche portacelular. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 2 unidades."
+    "descripcion": "Estuche portacelular. Producto de la categoría Estuches, marca Valkiria. Disponibilidad: 2 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "estuche-trasero-rockbros",
@@ -4317,7 +4532,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Estuche trasero rockbros. Producto de la categoría Estuches, marca Rockbros. Disponibilidad: 5 unidades."
+    "descripcion": "Estuche trasero rockbros. Producto de la categoría Estuches, marca Rockbros. Disponibilidad: 5 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "pata-de-apoyo",
@@ -4337,7 +4553,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Pata de apoyo. Producto de la categoría Soportes y Parqueos, marca Valkiria. Disponibilidad: 7 unidades."
+    "descripcion": "Pata de apoyo. Producto de la categoría Soportes y Parqueos, marca Valkiria. Disponibilidad: 7 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "soporte-para-bicicleta",
@@ -4357,7 +4574,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Soporte para bicicleta. Producto de la categoría Soportes y Parqueos, marca Valkiria. Disponibilidad: 5 unidades."
+    "descripcion": "Soporte para pared",
+    "tieneDescripcionReal": true
   },
   {
     "id": "caja-shimano-xt-12v-8100",
@@ -4377,7 +4595,8 @@
     "destacado": false,
     "badge": "Últimas",
     "badgeStyle": null,
-    "descripcion": "Caja shimano XT 12v 8100. Producto de la categoría Others, marca Shimano. Disponibilidad: 1 unidades."
+    "descripcion": "Caja shimano XT 12v 8100. Producto de la categoría Others, marca Shimano. Disponibilidad: 1 unidades.",
+    "tieneDescripcionReal": false
   },
   {
     "id": "lentes-okley",
@@ -4397,7 +4616,8 @@
     "destacado": false,
     "badge": "Oferta",
     "badgeStyle": "accent",
-    "descripcion": "lentes okley. Producto de la categoría Others, marca Valkiria. Disponibilidad: 42 unidades."
+    "descripcion": "Los lentes Oakley para ciclismo en Valkiria Bikes ofrecen protección superior contra los rayos UV y resplandores al aire libre. Su tecnología avanzada garantiza visión clara y sin distorsiones, incluso en las rutas más exigentes. Con variedad de armazones y colores, encontrarás el estilo perfecto para tus necesidades. Experimenta el rendimiento y estilo que Oakley sabe que buscas. ¡Hazte con tus lentes de sol para ciclismo hoy mismo y nota la diferencia!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "rodillo-de-3",
@@ -4417,7 +4637,8 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "rodillo de 3. Producto de la categoría Others, marca ODI. Disponibilidad: 0 unidades."
+    "descripcion": "El \"Rodillo de 3\" de Valkiria Bikes es tu compañero ideal para pedalear en casa. Con este accesorio, podrás mantenerte activo y en forma sin salir de tu hogar. ¡Aprovecha esta oportunidad y lleva tu entrenamiento a otro nivel! ¡Hazte con el tuyo ahora!",
+    "tieneDescripcionReal": true
   },
   {
     "id": "zapatillas",
@@ -4437,6 +4658,7 @@
     "destacado": false,
     "badge": null,
     "badgeStyle": null,
-    "descripcion": "Zapatillas. Producto de la categoría Others, marca Valkiria. Disponibilidad: 0 unidades."
+    "descripcion": "Zapatillas. Producto de la categoría Others, marca Valkiria. Disponibilidad: 0 unidades.",
+    "tieneDescripcionReal": false
   }
 ]

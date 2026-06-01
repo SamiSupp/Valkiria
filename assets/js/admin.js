@@ -8,6 +8,7 @@ import {
   readOverrides, resetOverrides, exportFullCatalog,
   Currency
 } from './catalog.js';
+import { productImage } from './ui.js';
 
 const CREDS = { user: 'valkiria', pass: 'valkiria' };
 const AUTH_KEY = 'valkiria.admin.auth.v1';
@@ -206,9 +207,7 @@ function renderProducts() {
   tbody.innerHTML = items.map(p => {
     const mod = isModified(p);
     const added = isAdded(p);
-    const thumb = p.img
-      ? `<img src="${p.img}" alt="" onerror="this.parentElement.innerHTML='<svg width=22 height=22 viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;1.6&quot;><path d=&quot;M3 9l9-6 9 6v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z&quot;/></svg>'">`
-      : `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 9l9-6 9 6v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>`;
+    const thumb = productImage(p, { size: 'thumb' });
 
     let pills = '';
     if (p.enOferta) pills += `<span class="pill pill--sale">Oferta ${p.descuento ? '-' + p.descuento + '%' : ''}</span> `;

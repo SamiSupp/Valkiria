@@ -4,6 +4,7 @@
 
 import { Cart, toast } from './cart.js';
 import { getCatalog, getCategories, Currency } from './catalog.js';
+import { productImage } from './ui.js';
 
 const state = {
   all: [],
@@ -21,14 +22,7 @@ const state = {
 function productCard(p) {
   const badge = p.badge ? `<span class="product-card__badge ${p.badgeStyle === 'accent' ? 'product-card__badge--accent' : ''}">${p.badge}</span>` : '';
   const oldPrice = p.precioAnterior ? `<del class="product-card__old">${Currency.formatShort(p.precioAnterior)}</del>` : '';
-  const imgHTML = p.img
-    ? `<img loading="lazy" src="${p.img}" alt="${p.nombre}" onerror="this.style.display='none'">`
-    : `<div class="product-card__placeholder" style="background:linear-gradient(135deg, ${p.color || '#34466F'}, var(--navy-900))">
-         <svg viewBox="0 0 100 100" width="60" height="60" fill="none" stroke="rgba(255,255,255,.6)" stroke-width="1.5">
-           <circle cx="25" cy="70" r="18"/><circle cx="75" cy="70" r="18"/>
-           <path d="M25 70 L50 30 L75 70 M40 50 L65 50"/>
-         </svg>
-       </div>`;
+  const imgHTML = productImage(p, { size: 'full' });
   return `
     <article class="product-card" data-magnet="0.04">
       <a href="producto.html?id=${p.id}" class="product-card__media" aria-label="${p.nombre}">
